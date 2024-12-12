@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma37(610)_Cu = 2.24530029296875

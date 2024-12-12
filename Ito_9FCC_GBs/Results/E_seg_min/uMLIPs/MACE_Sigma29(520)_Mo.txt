@@ -1,0 +1,1 @@
+E_seg_min_data_MACE(large)_Sigma29(520)_Mo = -0.5113456978400563

@@ -1,0 +1,1 @@
+E_seg_min_data_CHGNet(v0.3.0)_Sigma41(540)_Co = -0.0462799072265625

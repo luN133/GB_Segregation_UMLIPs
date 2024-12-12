@@ -1,0 +1,1 @@
+E_seg_min_data_M3GNet_Sigma13(320)_Mn = -167.91680908203125

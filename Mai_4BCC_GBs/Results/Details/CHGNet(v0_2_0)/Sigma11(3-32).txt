@@ -1,0 +1,323 @@
+Potential: CHGNet(v0_2_0)
+Lattice parameter: 2.8489
+GB: Sigma11(3-32)
+Atom number GB: 42
+Atom number bulk: 128
+Solute elements: ['Ti', 'V', 'Cr', 'Mn', 'Co', 'Ni', 'Cu', 'Nb', 'Mo', 'W']
+Indices of calculated sites: [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -1074.6854248046875 eV.
+
+The energy of the bulk system substituded by one Ti atom is -1075.2613525390625 eV.
+The energy of the bulk system substituded by one V atom is -1076.013427734375 eV.
+The energy of the bulk system substituded by one Cr atom is -1075.7996826171875 eV.
+The energy of the bulk system substituded by one Mn atom is -1075.332763671875 eV.
+The energy of the bulk system substituded by one Co atom is -1073.3299560546875 eV.
+The energy of the bulk system substituded by one Ni atom is -1071.917236328125 eV.
+The energy of the bulk system substituded by one Cu atom is -1070.0245361328125 eV.
+The energy of the bulk system substituded by one Nb atom is -1076.6988525390625 eV.
+The energy of the bulk system substituded by one Mo atom is -1077.0126953125 eV.
+The energy of the bulk system substituded by one W atom is -1079.17626953125 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -347.95957946777344 eV.
+
+-- Substitution of Ti --
+The E_gb_sub with site 11 (distance from GB plane: 6.501942225576855 angstrom) substituded by one Ti atom at site 11 is -348.5261878967285 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.913150772461769 angstrom) substituded by one Ti atom at site 12 is -348.48216819763184 eV.
+The E_gb_sub with site 13 (distance from GB plane: 4.916753545446486 angstrom) substituded by one Ti atom at site 13 is -348.94507598876953 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.717327611064572 angstrom) substituded by one Ti atom at site 14 is -348.48288917541504 eV.
+The E_gb_sub with site 15 (distance from GB plane: 3.687488192964409 angstrom) substituded by one Ti atom at site 15 is -348.94980239868164 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.486153994716286 angstrom) substituded by one Ti atom at site 16 is -348.48072624206543 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.4569241561459165 angstrom) substituded by one Ti atom at site 17 is -348.9514846801758 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.264622741151893 angstrom) substituded by one Ti atom at site 18 is -348.47924423217773 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.229598463505102 angstrom) substituded by one Ti atom at site 19 is -348.95228576660156 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.227073879513867 angstrom) substituded by one Ti atom at site 20 is -348.5519828796387 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one Ti atom at site 21 is -348.5519828796387 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one Ti atom at site 22 is -348.95228576660156 eV.
+
+-- Substitution of V --
+The E_gb_sub with site 11 (distance from GB plane: 6.49461485400116 angstrom) substituded by one V atom at site 11 is -349.3059253692627 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.900129640484071 angstrom) substituded by one V atom at site 12 is -349.2722797393799 eV.
+The E_gb_sub with site 13 (distance from GB plane: 5.2580533877551225 angstrom) substituded by one V atom at site 13 is -349.3077278137207 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.697033753849556 angstrom) substituded by one V atom at site 14 is -349.26867485046387 eV.
+The E_gb_sub with site 15 (distance from GB plane: 3.678200345389218 angstrom) substituded by one V atom at site 15 is -349.53167152404785 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.4776768967773464 angstrom) substituded by one V atom at site 16 is -349.2499294281006 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.451897489813849 angstrom) substituded by one V atom at site 17 is -349.5340347290039 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.252600326444508 angstrom) substituded by one V atom at site 18 is -349.2502498626709 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.2277539870062313 angstrom) substituded by one V atom at site 19 is -349.5347156524658 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.1490622088319995 angstrom) substituded by one V atom at site 20 is -349.2831745147705 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one V atom at site 21 is -349.2891426086426 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one V atom at site 22 is -349.5347156524658 eV.
+
+-- Substitution of Cr --
+The E_gb_sub with site 11 (distance from GB plane: 6.482498161931897 angstrom) substituded by one Cr atom at site 11 is -349.0650386810303 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.886701977898312 angstrom) substituded by one Cr atom at site 12 is -349.0503787994385 eV.
+The E_gb_sub with site 13 (distance from GB plane: 5.2366204617738354 angstrom) substituded by one Cr atom at site 13 is -349.0638370513916 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.699699285985226 angstrom) substituded by one Cr atom at site 14 is -349.0496578216553 eV.
+The E_gb_sub with site 15 (distance from GB plane: 3.9869771546513704 angstrom) substituded by one Cr atom at site 15 is -349.0659999847412 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.66747539526817 angstrom) substituded by one Cr atom at site 16 is -349.18079566955566 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.5450149892436116 angstrom) substituded by one Cr atom at site 17 is -349.1206741333008 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.448459239658888 angstrom) substituded by one Cr atom at site 18 is -349.18343925476074 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.3264619734102183 angstrom) substituded by one Cr atom at site 19 is -349.12111473083496 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.2253022498446526 angstrom) substituded by one Cr atom at site 20 is -349.1842803955078 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one Cr atom at site 21 is -349.1843204498291 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one Cr atom at site 22 is -349.1169490814209 eV.
+
+-- Substitution of Mn --
+The E_gb_sub with site 11 (distance from GB plane: 6.478784073471537 angstrom) substituded by one Mn atom at site 11 is -348.5957221984863 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.882408811312015 angstrom) substituded by one Mn atom at site 12 is -348.595401763916 eV.
+The E_gb_sub with site 13 (distance from GB plane: 5.247847940571496 angstrom) substituded by one Mn atom at site 13 is -348.5888328552246 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.689212274040109 angstrom) substituded by one Mn atom at site 14 is -348.5900344848633 eV.
+The E_gb_sub with site 15 (distance from GB plane: 4.021338261240121 angstrom) substituded by one Mn atom at site 15 is -348.58070182800293 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.4877589623160965 angstrom) substituded by one Mn atom at site 16 is -348.58466720581055 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.7513202690681453 angstrom) substituded by one Mn atom at site 17 is -348.57293128967285 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.4435263481229015 angstrom) substituded by one Mn atom at site 18 is -348.64246559143066 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.3824887880391366 angstrom) substituded by one Mn atom at site 19 is -348.5682849884033 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.2237210268289083 angstrom) substituded by one Mn atom at site 20 is -348.6437072753906 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one Mn atom at site 21 is -348.6437473297119 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one Mn atom at site 22 is -348.5518627166748 eV.
+
+-- Substitution of Co --
+The E_gb_sub with site 11 (distance from GB plane: 6.49154697939305 angstrom) substituded by one Co atom at site 11 is -346.61187171936035 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.893098788973727 angstrom) substituded by one Co atom at site 12 is -346.6037006378174 eV.
+The E_gb_sub with site 13 (distance from GB plane: 5.256464282296719 angstrom) substituded by one Co atom at site 13 is -346.6159973144531 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.696262589432031 angstrom) substituded by one Co atom at site 14 is -346.60422134399414 eV.
+The E_gb_sub with site 15 (distance from GB plane: 3.68340332594137 angstrom) substituded by one Co atom at site 15 is -346.6889762878418 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.6732021561885624 angstrom) substituded by one Co atom at site 16 is -346.71445083618164 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.454479050690523 angstrom) substituded by one Co atom at site 17 is -346.69206047058105 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.451867018022323 angstrom) substituded by one Co atom at site 18 is -346.7174949645996 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.136634800747757 angstrom) substituded by one Co atom at site 19 is -346.6930618286133 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.2264978886968905 angstrom) substituded by one Co atom at site 20 is -346.7182960510254 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one Co atom at site 21 is -346.7183361053467 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one Co atom at site 22 is -346.6930618286133 eV.
+
+-- Substitution of Ni --
+The E_gb_sub with site 11 (distance from GB plane: 6.492521119830236 angstrom) substituded by one Ni atom at site 11 is -345.20372200012207 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.897938763178761 angstrom) substituded by one Ni atom at site 12 is -345.18217277526855 eV.
+The E_gb_sub with site 13 (distance from GB plane: 5.24603518798741 angstrom) substituded by one Ni atom at site 13 is -345.2024803161621 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.707450646984661 angstrom) substituded by one Ni atom at site 14 is -345.17640495300293 eV.
+The E_gb_sub with site 15 (distance from GB plane: 3.6834655849378564 angstrom) substituded by one Ni atom at site 15 is -345.3226432800293 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.667427474875101 angstrom) substituded by one Ni atom at site 16 is -345.3622570037842 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.4530940612159426 angstrom) substituded by one Ni atom at site 17 is -345.3254871368408 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.4566767804347514 angstrom) substituded by one Ni atom at site 18 is -345.36566162109375 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.227858460399812 angstrom) substituded by one Ni atom at site 19 is -345.32676887512207 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.2211830062660418 angstrom) substituded by one Ni atom at site 20 is -345.3666229248047 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one Ni atom at site 21 is -345.3666229248047 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one Ni atom at site 22 is -345.32676887512207 eV.
+
+-- Substitution of Cu --
+The E_gb_sub with site 11 (distance from GB plane: 6.498377063342748 angstrom) substituded by one Cu atom at site 11 is -343.2637710571289 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.901466310044018 angstrom) substituded by one Cu atom at site 12 is -343.24134063720703 eV.
+The E_gb_sub with site 13 (distance from GB plane: 5.251211514165366 angstrom) substituded by one Cu atom at site 13 is -343.2652130126953 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.70882038611099 angstrom) substituded by one Cu atom at site 14 is -343.23901748657227 eV.
+The E_gb_sub with site 15 (distance from GB plane: 3.683788779200725 angstrom) substituded by one Cu atom at site 15 is -343.4277534484863 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.5166257957629803 angstrom) substituded by one Cu atom at site 16 is -343.2223949432373 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.45356903292711 angstrom) substituded by one Cu atom at site 17 is -343.4308776855469 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.456809200375041 angstrom) substituded by one Cu atom at site 18 is -343.3839740753174 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.2293229410027138 angstrom) substituded by one Cu atom at site 19 is -343.4315586090088 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.227516554028714 angstrom) substituded by one Cu atom at site 20 is -343.3845748901367 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one Cu atom at site 21 is -343.3845748901367 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one Cu atom at site 22 is -343.4315986633301 eV.
+
+-- Substitution of Nb --
+The E_gb_sub with site 11 (distance from GB plane: 6.178287530914265 angstrom) substituded by one Nb atom at site 11 is -350.6272373199463 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.947818994827841 angstrom) substituded by one Nb atom at site 12 is -349.890718460083 eV.
+The E_gb_sub with site 13 (distance from GB plane: 4.933519979059813 angstrom) substituded by one Nb atom at site 13 is -350.6267967224121 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.738272303447779 angstrom) substituded by one Nb atom at site 14 is -349.89135932922363 eV.
+The E_gb_sub with site 15 (distance from GB plane: 3.7012030799318296 angstrom) substituded by one Nb atom at site 15 is -350.6304817199707 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.631037855914297 angstrom) substituded by one Nb atom at site 16 is -350.1206302642822 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.465204468994788 angstrom) substituded by one Nb atom at site 17 is -350.63072204589844 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.9612545305167934 angstrom) substituded by one Nb atom at site 18 is -350.12527656555176 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.232499201215596 angstrom) substituded by one Nb atom at site 19 is -350.6315231323242 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.234629326791545 angstrom) substituded by one Nb atom at site 20 is -350.12487602233887 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one Nb atom at site 21 is -350.1248359680176 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one Nb atom at site 22 is -350.63148307800293 eV.
+
+-- Substitution of Mo --
+The E_gb_sub with site 11 (distance from GB plane: 6.504164416727267 angstrom) substituded by one Mo atom at site 11 is -350.20109939575195 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.913296851043867 angstrom) substituded by one Mo atom at site 12 is -350.1496696472168 eV.
+The E_gb_sub with site 13 (distance from GB plane: 3.9821892100700857 angstrom) substituded by one Mo atom at site 13 is -350.5569820404053 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.689894128207179 angstrom) substituded by one Mo atom at site 14 is -350.15495681762695 eV.
+The E_gb_sub with site 15 (distance from GB plane: 3.702617960669503 angstrom) substituded by one Mo atom at site 15 is -350.5613479614258 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.4754191857968166 angstrom) substituded by one Mo atom at site 16 is -350.15055084228516 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.4581829973190494 angstrom) substituded by one Mo atom at site 17 is -350.5633907318115 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.2325654782297804 angstrom) substituded by one Mo atom at site 18 is -350.1485080718994 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.2327992168504807 angstrom) substituded by one Mo atom at site 19 is -350.56439208984375 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.2301228938752118 angstrom) substituded by one Mo atom at site 20 is -350.2265338897705 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one Mo atom at site 21 is -350.2264938354492 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one Mo atom at site 22 is -350.56439208984375 eV.
+
+-- Substitution of W --
+The E_gb_sub with site 11 (distance from GB plane: 6.500322843114283 angstrom) substituded by one W atom at site 11 is -352.3359146118164 eV.
+The E_gb_sub with site 12 (distance from GB plane: 5.920747625671773 angstrom) substituded by one W atom at site 12 is -352.28156089782715 eV.
+The E_gb_sub with site 13 (distance from GB plane: 4.9013892048815855 angstrom) substituded by one W atom at site 13 is -352.84192085266113 eV.
+The E_gb_sub with site 14 (distance from GB plane: 4.649704953816009 angstrom) substituded by one W atom at site 14 is -352.2896919250488 eV.
+The E_gb_sub with site 15 (distance from GB plane: 3.6848067644419693 angstrom) substituded by one W atom at site 15 is -352.8482093811035 eV.
+The E_gb_sub with site 16 (distance from GB plane: 3.666001477952115 angstrom) substituded by one W atom at site 16 is -352.38189697265625 eV.
+The E_gb_sub with site 17 (distance from GB plane: 2.451732195717547 angstrom) substituded by one W atom at site 17 is -352.8500919342041 eV.
+The E_gb_sub with site 18 (distance from GB plane: 2.463442554189548 angstrom) substituded by one W atom at site 18 is -352.38806533813477 eV.
+The E_gb_sub with site 19 (distance from GB plane: 1.229720294955147 angstrom) substituded by one W atom at site 19 is -352.8512535095215 eV.
+The E_gb_sub with site 20 (distance from GB plane: 1.2106357236190881 angstrom) substituded by one W atom at site 20 is -352.3879051208496 eV.
+The E_gb_sub with site 21 (distance from GB plane: 0 angstrom) substituded by one W atom at site 21 is -352.3880252838135 eV.
+The E_gb_sub with site 22 (distance from GB plane: 0 angstrom) substituded by one W atom at site 22 is -352.8512535095215 eV.
+
+----- Segregation Energies -----
+
+-- Segregation energy of Ti --
+The segregation energy of one Ti atom at site 11 (distance from GB plane: 6.501942225576855 angstrom) in Fe GB is 0.009319305419921875 eV.
+The segregation energy of one Ti atom at site 12 (distance from GB plane: 5.913150772461769 angstrom) in Fe GB is 0.05333900451660156 eV.
+The segregation energy of one Ti atom at site 13 (distance from GB plane: 4.916753545446486 angstrom) in Fe GB is -0.40956878662109375 eV.
+The segregation energy of one Ti atom at site 14 (distance from GB plane: 4.717327611064572 angstrom) in Fe GB is 0.05261802673339844 eV.
+The segregation energy of one Ti atom at site 15 (distance from GB plane: 3.687488192964409 angstrom) in Fe GB is -0.4142951965332031 eV.
+The segregation energy of one Ti atom at site 16 (distance from GB plane: 3.486153994716286 angstrom) in Fe GB is 0.05478096008300781 eV.
+The segregation energy of one Ti atom at site 17 (distance from GB plane: 2.4569241561459165 angstrom) in Fe GB is -0.41597747802734375 eV.
+The segregation energy of one Ti atom at site 18 (distance from GB plane: 2.264622741151893 angstrom) in Fe GB is 0.056262969970703125 eV.
+The segregation energy of one Ti atom at site 19 (distance from GB plane: 1.229598463505102 angstrom) in Fe GB is -0.416778564453125 eV.
+The segregation energy of one Ti atom at site 20 (distance from GB plane: 1.227073879513867 angstrom) in Fe GB is -0.016475677490234375 eV.
+The segregation energy of one Ti atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is -0.016475677490234375 eV.
+The segregation energy of one Ti atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is -0.416778564453125 eV.
+
+-- Segregation energy of V --
+The segregation energy of one V atom at site 11 (distance from GB plane: 6.49461485400116 angstrom) in Fe GB is -0.018342971801757812 eV.
+The segregation energy of one V atom at site 12 (distance from GB plane: 5.900129640484071 angstrom) in Fe GB is 0.015302658081054688 eV.
+The segregation energy of one V atom at site 13 (distance from GB plane: 5.2580533877551225 angstrom) in Fe GB is -0.020145416259765625 eV.
+The segregation energy of one V atom at site 14 (distance from GB plane: 4.697033753849556 angstrom) in Fe GB is 0.018907546997070312 eV.
+The segregation energy of one V atom at site 15 (distance from GB plane: 3.678200345389218 angstrom) in Fe GB is -0.24408912658691406 eV.
+The segregation energy of one V atom at site 16 (distance from GB plane: 3.4776768967773464 angstrom) in Fe GB is 0.03765296936035156 eV.
+The segregation energy of one V atom at site 17 (distance from GB plane: 2.451897489813849 angstrom) in Fe GB is -0.24645233154296875 eV.
+The segregation energy of one V atom at site 18 (distance from GB plane: 2.252600326444508 angstrom) in Fe GB is 0.03733253479003906 eV.
+The segregation energy of one V atom at site 19 (distance from GB plane: 1.2277539870062313 angstrom) in Fe GB is -0.2471332550048828 eV.
+The segregation energy of one V atom at site 20 (distance from GB plane: 1.1490622088319995 angstrom) in Fe GB is 0.0044078826904296875 eV.
+The segregation energy of one V atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is -0.001560211181640625 eV.
+The segregation energy of one V atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is -0.2471332550048828 eV.
+
+-- Segregation energy of Cr --
+The segregation energy of one Cr atom at site 11 (distance from GB plane: 6.482498161931897 angstrom) in Fe GB is 0.008798599243164062 eV.
+The segregation energy of one Cr atom at site 12 (distance from GB plane: 5.886701977898312 angstrom) in Fe GB is 0.023458480834960938 eV.
+The segregation energy of one Cr atom at site 13 (distance from GB plane: 5.2366204617738354 angstrom) in Fe GB is 0.010000228881835938 eV.
+The segregation energy of one Cr atom at site 14 (distance from GB plane: 4.699699285985226 angstrom) in Fe GB is 0.024179458618164062 eV.
+The segregation energy of one Cr atom at site 15 (distance from GB plane: 3.9869771546513704 angstrom) in Fe GB is 0.007837295532226562 eV.
+The segregation energy of one Cr atom at site 16 (distance from GB plane: 3.66747539526817 angstrom) in Fe GB is -0.10695838928222656 eV.
+The segregation energy of one Cr atom at site 17 (distance from GB plane: 2.5450149892436116 angstrom) in Fe GB is -0.04683685302734375 eV.
+The segregation energy of one Cr atom at site 18 (distance from GB plane: 2.448459239658888 angstrom) in Fe GB is -0.10960197448730469 eV.
+The segregation energy of one Cr atom at site 19 (distance from GB plane: 1.3264619734102183 angstrom) in Fe GB is -0.04727745056152344 eV.
+The segregation energy of one Cr atom at site 20 (distance from GB plane: 1.2253022498446526 angstrom) in Fe GB is -0.110443115234375 eV.
+The segregation energy of one Cr atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is -0.11048316955566406 eV.
+The segregation energy of one Cr atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is -0.04311180114746094 eV.
+
+-- Segregation energy of Mn --
+The segregation energy of one Mn atom at site 11 (distance from GB plane: 6.478784073471537 angstrom) in Fe GB is 0.011196136474609375 eV.
+The segregation energy of one Mn atom at site 12 (distance from GB plane: 5.882408811312015 angstrom) in Fe GB is 0.011516571044921875 eV.
+The segregation energy of one Mn atom at site 13 (distance from GB plane: 5.247847940571496 angstrom) in Fe GB is 0.018085479736328125 eV.
+The segregation energy of one Mn atom at site 14 (distance from GB plane: 4.689212274040109 angstrom) in Fe GB is 0.01688385009765625 eV.
+The segregation energy of one Mn atom at site 15 (distance from GB plane: 4.021338261240121 angstrom) in Fe GB is 0.026216506958007812 eV.
+The segregation energy of one Mn atom at site 16 (distance from GB plane: 3.4877589623160965 angstrom) in Fe GB is 0.022251129150390625 eV.
+The segregation energy of one Mn atom at site 17 (distance from GB plane: 2.7513202690681453 angstrom) in Fe GB is 0.03398704528808594 eV.
+The segregation energy of one Mn atom at site 18 (distance from GB plane: 2.4435263481229015 angstrom) in Fe GB is -0.03554725646972656 eV.
+The segregation energy of one Mn atom at site 19 (distance from GB plane: 1.3824887880391366 angstrom) in Fe GB is 0.03863334655761719 eV.
+The segregation energy of one Mn atom at site 20 (distance from GB plane: 1.2237210268289083 angstrom) in Fe GB is -0.0367889404296875 eV.
+The segregation energy of one Mn atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is -0.03682899475097656 eV.
+The segregation energy of one Mn atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is 0.05505561828613281 eV.
+
+-- Segregation energy of Co --
+The segregation energy of one Co atom at site 11 (distance from GB plane: 6.49154697939305 angstrom) in Fe GB is -0.0077610015869140625 eV.
+The segregation energy of one Co atom at site 12 (distance from GB plane: 5.893098788973727 angstrom) in Fe GB is 0.0004100799560546875 eV.
+The segregation energy of one Co atom at site 13 (distance from GB plane: 5.256464282296719 angstrom) in Fe GB is -0.0118865966796875 eV.
+The segregation energy of one Co atom at site 14 (distance from GB plane: 4.696262589432031 angstrom) in Fe GB is -0.000110626220703125 eV.
+The segregation energy of one Co atom at site 15 (distance from GB plane: 3.68340332594137 angstrom) in Fe GB is -0.08486557006835938 eV.
+The segregation energy of one Co atom at site 16 (distance from GB plane: 3.6732021561885624 angstrom) in Fe GB is -0.11034011840820312 eV.
+The segregation energy of one Co atom at site 17 (distance from GB plane: 2.454479050690523 angstrom) in Fe GB is -0.08794975280761719 eV.
+The segregation energy of one Co atom at site 18 (distance from GB plane: 2.451867018022323 angstrom) in Fe GB is -0.11338424682617188 eV.
+The segregation energy of one Co atom at site 19 (distance from GB plane: 1.136634800747757 angstrom) in Fe GB is -0.08895111083984375 eV.
+The segregation energy of one Co atom at site 20 (distance from GB plane: 1.2264978886968905 angstrom) in Fe GB is -0.11418533325195312 eV.
+The segregation energy of one Co atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is -0.11422538757324219 eV.
+The segregation energy of one Co atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is -0.08895111083984375 eV.
+
+-- Segregation energy of Ni --
+The segregation energy of one Ni atom at site 11 (distance from GB plane: 6.492521119830236 angstrom) in Fe GB is -0.012331008911132812 eV.
+The segregation energy of one Ni atom at site 12 (distance from GB plane: 5.897938763178761 angstrom) in Fe GB is 0.009218215942382812 eV.
+The segregation energy of one Ni atom at site 13 (distance from GB plane: 5.24603518798741 angstrom) in Fe GB is -0.011089324951171875 eV.
+The segregation energy of one Ni atom at site 14 (distance from GB plane: 4.707450646984661 angstrom) in Fe GB is 0.014986038208007812 eV.
+The segregation energy of one Ni atom at site 15 (distance from GB plane: 3.6834655849378564 angstrom) in Fe GB is -0.13125228881835938 eV.
+The segregation energy of one Ni atom at site 16 (distance from GB plane: 3.667427474875101 angstrom) in Fe GB is -0.1708660125732422 eV.
+The segregation energy of one Ni atom at site 17 (distance from GB plane: 2.4530940612159426 angstrom) in Fe GB is -0.1340961456298828 eV.
+The segregation energy of one Ni atom at site 18 (distance from GB plane: 2.4566767804347514 angstrom) in Fe GB is -0.1742706298828125 eV.
+The segregation energy of one Ni atom at site 19 (distance from GB plane: 1.227858460399812 angstrom) in Fe GB is -0.1353778839111328 eV.
+The segregation energy of one Ni atom at site 20 (distance from GB plane: 1.2211830062660418 angstrom) in Fe GB is -0.17523193359375 eV.
+The segregation energy of one Ni atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is -0.17523193359375 eV.
+The segregation energy of one Ni atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is -0.1353778839111328 eV.
+
+-- Segregation energy of Cu --
+The segregation energy of one Cu atom at site 11 (distance from GB plane: 6.498377063342748 angstrom) in Fe GB is 0.03491973876953125 eV.
+The segregation energy of one Cu atom at site 12 (distance from GB plane: 5.901466310044018 angstrom) in Fe GB is 0.05735015869140625 eV.
+The segregation energy of one Cu atom at site 13 (distance from GB plane: 5.251211514165366 angstrom) in Fe GB is 0.033477783203125 eV.
+The segregation energy of one Cu atom at site 14 (distance from GB plane: 4.70882038611099 angstrom) in Fe GB is 0.059673309326171875 eV.
+The segregation energy of one Cu atom at site 15 (distance from GB plane: 3.683788779200725 angstrom) in Fe GB is -0.12906265258789062 eV.
+The segregation energy of one Cu atom at site 16 (distance from GB plane: 3.5166257957629803 angstrom) in Fe GB is 0.07629585266113281 eV.
+The segregation energy of one Cu atom at site 17 (distance from GB plane: 2.45356903292711 angstrom) in Fe GB is -0.1321868896484375 eV.
+The segregation energy of one Cu atom at site 18 (distance from GB plane: 2.456809200375041 angstrom) in Fe GB is -0.08528327941894531 eV.
+The segregation energy of one Cu atom at site 19 (distance from GB plane: 1.2293229410027138 angstrom) in Fe GB is -0.13286781311035156 eV.
+The segregation energy of one Cu atom at site 20 (distance from GB plane: 1.227516554028714 angstrom) in Fe GB is -0.08588409423828125 eV.
+The segregation energy of one Cu atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is -0.08588409423828125 eV.
+The segregation energy of one Cu atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is -0.13290786743164062 eV.
+
+-- Segregation energy of Nb --
+The segregation energy of one Nb atom at site 11 (distance from GB plane: 6.178287530914265 angstrom) in Fe GB is -0.6542301177978516 eV.
+The segregation energy of one Nb atom at site 12 (distance from GB plane: 5.947818994827841 angstrom) in Fe GB is 0.08228874206542969 eV.
+The segregation energy of one Nb atom at site 13 (distance from GB plane: 4.933519979059813 angstrom) in Fe GB is -0.6537895202636719 eV.
+The segregation energy of one Nb atom at site 14 (distance from GB plane: 4.738272303447779 angstrom) in Fe GB is 0.08164787292480469 eV.
+The segregation energy of one Nb atom at site 15 (distance from GB plane: 3.7012030799318296 angstrom) in Fe GB is -0.6574745178222656 eV.
+The segregation energy of one Nb atom at site 16 (distance from GB plane: 3.631037855914297 angstrom) in Fe GB is -0.14762306213378906 eV.
+The segregation energy of one Nb atom at site 17 (distance from GB plane: 2.465204468994788 angstrom) in Fe GB is -0.65771484375 eV.
+The segregation energy of one Nb atom at site 18 (distance from GB plane: 2.9612545305167934 angstrom) in Fe GB is -0.1522693634033203 eV.
+The segregation energy of one Nb atom at site 19 (distance from GB plane: 1.232499201215596 angstrom) in Fe GB is -0.6585159301757812 eV.
+The segregation energy of one Nb atom at site 20 (distance from GB plane: 1.234629326791545 angstrom) in Fe GB is -0.1518688201904297 eV.
+The segregation energy of one Nb atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is -0.15182876586914062 eV.
+The segregation energy of one Nb atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is -0.6584758758544922 eV.
+
+-- Segregation energy of Mo --
+The segregation energy of one Mo atom at site 11 (distance from GB plane: 6.504164416727267 angstrom) in Fe GB is 0.08575057983398438 eV.
+The segregation energy of one Mo atom at site 12 (distance from GB plane: 5.913296851043867 angstrom) in Fe GB is 0.13718032836914062 eV.
+The segregation energy of one Mo atom at site 13 (distance from GB plane: 3.9821892100700857 angstrom) in Fe GB is -0.27013206481933594 eV.
+The segregation energy of one Mo atom at site 14 (distance from GB plane: 4.689894128207179 angstrom) in Fe GB is 0.13189315795898438 eV.
+The segregation energy of one Mo atom at site 15 (distance from GB plane: 3.702617960669503 angstrom) in Fe GB is -0.27449798583984375 eV.
+The segregation energy of one Mo atom at site 16 (distance from GB plane: 3.4754191857968166 angstrom) in Fe GB is 0.13629913330078125 eV.
+The segregation energy of one Mo atom at site 17 (distance from GB plane: 2.4581829973190494 angstrom) in Fe GB is -0.27654075622558594 eV.
+The segregation energy of one Mo atom at site 18 (distance from GB plane: 2.2325654782297804 angstrom) in Fe GB is 0.13834190368652344 eV.
+The segregation energy of one Mo atom at site 19 (distance from GB plane: 1.2327992168504807 angstrom) in Fe GB is -0.2775421142578125 eV.
+The segregation energy of one Mo atom at site 20 (distance from GB plane: 1.2301228938752118 angstrom) in Fe GB is 0.06031608581542969 eV.
+The segregation energy of one Mo atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is 0.06035614013671875 eV.
+The segregation energy of one Mo atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is -0.2775421142578125 eV.
+
+-- Segregation energy of W --
+The segregation energy of one W atom at site 11 (distance from GB plane: 6.500322843114283 angstrom) in Fe GB is 0.11450958251953125 eV.
+The segregation energy of one W atom at site 12 (distance from GB plane: 5.920747625671773 angstrom) in Fe GB is 0.16886329650878906 eV.
+The segregation energy of one W atom at site 13 (distance from GB plane: 4.9013892048815855 angstrom) in Fe GB is -0.3914966583251953 eV.
+The segregation energy of one W atom at site 14 (distance from GB plane: 4.649704953816009 angstrom) in Fe GB is 0.16073226928710938 eV.
+The segregation energy of one W atom at site 15 (distance from GB plane: 3.6848067644419693 angstrom) in Fe GB is -0.3977851867675781 eV.
+The segregation energy of one W atom at site 16 (distance from GB plane: 3.666001477952115 angstrom) in Fe GB is 0.0685272216796875 eV.
+The segregation energy of one W atom at site 17 (distance from GB plane: 2.451732195717547 angstrom) in Fe GB is -0.39966773986816406 eV.
+The segregation energy of one W atom at site 18 (distance from GB plane: 2.463442554189548 angstrom) in Fe GB is 0.062358856201171875 eV.
+The segregation energy of one W atom at site 19 (distance from GB plane: 1.229720294955147 angstrom) in Fe GB is -0.4008293151855469 eV.
+The segregation energy of one W atom at site 20 (distance from GB plane: 1.2106357236190881 angstrom) in Fe GB is 0.06251907348632812 eV.
+The segregation energy of one W atom at site 21 (distance from GB plane: 0 angstrom) in Fe GB is 0.06239891052246094 eV.
+The segregation energy of one W atom at site 22 (distance from GB plane: 0 angstrom) in Fe GB is -0.4008293151855469 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one Ti atom in Fe GB is -0.416778564453125 eV at site 19.
+The lowest segregation energy of one V atom in Fe GB is -0.2471332550048828 eV at site 19.
+The lowest segregation energy of one Cr atom in Fe GB is -0.11048316955566406 eV at site 21.
+The lowest segregation energy of one Mn atom in Fe GB is -0.03682899475097656 eV at site 21.
+The lowest segregation energy of one Co atom in Fe GB is -0.11422538757324219 eV at site 21.
+The lowest segregation energy of one Ni atom in Fe GB is -0.17523193359375 eV at site 20.
+The lowest segregation energy of one Cu atom in Fe GB is -0.13290786743164062 eV at site 22.
+The lowest segregation energy of one Nb atom in Fe GB is -0.6585159301757812 eV at site 19.
+The lowest segregation energy of one Mo atom in Fe GB is -0.2775421142578125 eV at site 19.
+The lowest segregation energy of one W atom in Fe GB is -0.4008293151855469 eV at site 19.

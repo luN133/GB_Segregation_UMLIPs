@@ -1,0 +1,84 @@
+Potential: CHGNet(v0.3.0)
+Model: 0.3.0
+Lattice parameter: 3.4956
+GB: Sigma25(430)
+Atom number GB: 228
+Atom number bulk: 108
+Solute element: V
+Indices of calculated sites: [1, 2, 3, 4, 5, 12, 13, 28, 29, 31, 32, 45, 66, 67, 115, 116, 117, 118, 119, 126, 127, 142, 143, 145, 146, 159, 180, 181]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -901.3336715698242 eV.
+
+The energy of the bulk system substituded by one V atom is -902.6134071350098 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -1872.5303649902344 eV.
+
+-- Substitution of V --
+The E_gb_sub with site 1 (distance from GB plane: 1.590233464640816 angstrom) substituded by V atom is -1873.882827758789 eV.
+The E_gb_sub with site 2 (distance from GB plane: 0.4888926442167989 angstrom) substituded by V atom is -1873.7841110229492 eV.
+The E_gb_sub with site 3 (distance from GB plane: 1.7007120298859437 angstrom) substituded by V atom is -1874.0282936096191 eV.
+The E_gb_sub with site 4 (distance from GB plane: 1.7051822724914416 angstrom) substituded by V atom is -1873.7756309509277 eV.
+The E_gb_sub with site 5 (distance from GB plane: 0.4880402093107339 angstrom) substituded by V atom is -1873.9132690429688 eV.
+The E_gb_sub with site 12 (distance from GB plane: 1.5582122577747466 angstrom) substituded by V atom is -1873.8926124572754 eV.
+The E_gb_sub with site 13 (distance from GB plane: 0.4552457695408858 angstrom) substituded by V atom is -1874.0089416503906 eV.
+The E_gb_sub with site 28 (distance from GB plane: 1.7309718731319474 angstrom) substituded by V atom is -1873.7643241882324 eV.
+The E_gb_sub with site 29 (distance from GB plane: 1.8129265706418796 angstrom) substituded by V atom is -1873.7288818359375 eV.
+The E_gb_sub with site 31 (distance from GB plane: 0.5104214085685417 angstrom) substituded by V atom is -1873.9143562316895 eV.
+The E_gb_sub with site 32 (distance from GB plane: 0.505133345260532 angstrom) substituded by V atom is -1873.7832412719727 eV.
+The E_gb_sub with site 45 (distance from GB plane: 0.4903312261098236 angstrom) substituded by V atom is -1873.8010711669922 eV.
+The E_gb_sub with site 66 (distance from GB plane: 1.573043605909918 angstrom) substituded by V atom is -1873.7938957214355 eV.
+The E_gb_sub with site 67 (distance from GB plane: 1.6101182594772254 angstrom) substituded by V atom is -1873.7053985595703 eV.
+The E_gb_sub with site 115 (distance from GB plane: 1.5128146538205556 angstrom) substituded by V atom is -1873.868911743164 eV.
+The E_gb_sub with site 116 (distance from GB plane: 0.5022755282966962 angstrom) substituded by V atom is -1873.7810668945312 eV.
+The E_gb_sub with site 117 (distance from GB plane: 1.8377964576483166 angstrom) substituded by V atom is -1873.8863067626953 eV.
+The E_gb_sub with site 118 (distance from GB plane: 1.72486340652895 angstrom) substituded by V atom is -1873.7584533691406 eV.
+The E_gb_sub with site 119 (distance from GB plane: 0.4909415281259868 angstrom) substituded by V atom is -1873.9158782958984 eV.
+The E_gb_sub with site 126 (distance from GB plane: 1.9473527426944592 angstrom) substituded by V atom is -1873.865650177002 eV.
+The E_gb_sub with site 127 (distance from GB plane: 0.5015047558003953 angstrom) substituded by V atom is -1873.7986793518066 eV.
+The E_gb_sub with site 142 (distance from GB plane: 1.7085303782561425 angstrom) substituded by V atom is -1873.783893585205 eV.
+The E_gb_sub with site 143 (distance from GB plane: 1.7016301091826485 angstrom) substituded by V atom is -1874.0243797302246 eV.
+The E_gb_sub with site 145 (distance from GB plane: 0.5117993997587487 angstrom) substituded by V atom is -1873.9117469787598 eV.
+The E_gb_sub with site 146 (distance from GB plane: 0.5055482813453267 angstrom) substituded by V atom is -1873.7847633361816 eV.
+The E_gb_sub with site 159 (distance from GB plane: 0.4864222108074099 angstrom) substituded by V atom is -1873.7873725891113 eV.
+The E_gb_sub with site 180 (distance from GB plane: 1.574408355929954 angstrom) substituded by V atom is -1873.7943305969238 eV.
+The E_gb_sub with site 181 (distance from GB plane: 1.6060285758773833 angstrom) substituded by V atom is -1873.7006149291992 eV.
+
+----- Segregation Energies -----
+The segregation energy of one V atom at site 1 (distance from GB plane: 1.590233464640816 angstrom) in Fe GB is -0.07272720336914062 eV.
+The segregation energy of one V atom at site 2 (distance from GB plane: 0.4888926442167989 angstrom) in Fe GB is 0.025989532470703125 eV.
+The segregation energy of one V atom at site 3 (distance from GB plane: 1.7007120298859437 angstrom) in Fe GB is -0.21819305419921875 eV.
+The segregation energy of one V atom at site 4 (distance from GB plane: 1.7051822724914416 angstrom) in Fe GB is 0.0344696044921875 eV.
+The segregation energy of one V atom at site 5 (distance from GB plane: 0.4880402093107339 angstrom) in Fe GB is -0.10316848754882812 eV.
+The segregation energy of one V atom at site 12 (distance from GB plane: 1.5582122577747466 angstrom) in Fe GB is -0.08251190185546875 eV.
+The segregation energy of one V atom at site 13 (distance from GB plane: 0.4552457695408858 angstrom) in Fe GB is -0.19884109497070312 eV.
+The segregation energy of one V atom at site 28 (distance from GB plane: 1.7309718731319474 angstrom) in Fe GB is 0.0457763671875 eV.
+The segregation energy of one V atom at site 29 (distance from GB plane: 1.8129265706418796 angstrom) in Fe GB is 0.08121871948242188 eV.
+The segregation energy of one V atom at site 31 (distance from GB plane: 0.5104214085685417 angstrom) in Fe GB is -0.10425567626953125 eV.
+The segregation energy of one V atom at site 32 (distance from GB plane: 0.505133345260532 angstrom) in Fe GB is 0.026859283447265625 eV.
+The segregation energy of one V atom at site 45 (distance from GB plane: 0.4903312261098236 angstrom) in Fe GB is 0.009029388427734375 eV.
+The segregation energy of one V atom at site 66 (distance from GB plane: 1.573043605909918 angstrom) in Fe GB is 0.016204833984375 eV.
+The segregation energy of one V atom at site 67 (distance from GB plane: 1.6101182594772254 angstrom) in Fe GB is 0.10470199584960938 eV.
+The segregation energy of one V atom at site 115 (distance from GB plane: 1.5128146538205556 angstrom) in Fe GB is -0.058811187744140625 eV.
+The segregation energy of one V atom at site 116 (distance from GB plane: 0.5022755282966962 angstrom) in Fe GB is 0.029033660888671875 eV.
+The segregation energy of one V atom at site 117 (distance from GB plane: 1.8377964576483166 angstrom) in Fe GB is -0.07620620727539062 eV.
+The segregation energy of one V atom at site 118 (distance from GB plane: 1.72486340652895 angstrom) in Fe GB is 0.051647186279296875 eV.
+The segregation energy of one V atom at site 119 (distance from GB plane: 0.4909415281259868 angstrom) in Fe GB is -0.10577774047851562 eV.
+The segregation energy of one V atom at site 126 (distance from GB plane: 1.9473527426944592 angstrom) in Fe GB is -0.05554962158203125 eV.
+The segregation energy of one V atom at site 127 (distance from GB plane: 0.5015047558003953 angstrom) in Fe GB is 0.01142120361328125 eV.
+The segregation energy of one V atom at site 142 (distance from GB plane: 1.7085303782561425 angstrom) in Fe GB is 0.02620697021484375 eV.
+The segregation energy of one V atom at site 143 (distance from GB plane: 1.7016301091826485 angstrom) in Fe GB is -0.2142791748046875 eV.
+The segregation energy of one V atom at site 145 (distance from GB plane: 0.5117993997587487 angstrom) in Fe GB is -0.10164642333984375 eV.
+The segregation energy of one V atom at site 146 (distance from GB plane: 0.5055482813453267 angstrom) in Fe GB is 0.02533721923828125 eV.
+The segregation energy of one V atom at site 159 (distance from GB plane: 0.4864222108074099 angstrom) in Fe GB is 0.02272796630859375 eV.
+The segregation energy of one V atom at site 180 (distance from GB plane: 1.574408355929954 angstrom) in Fe GB is 0.01576995849609375 eV.
+The segregation energy of one V atom at site 181 (distance from GB plane: 1.6060285758773833 angstrom) in Fe GB is 0.10948562622070312 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one V atom in Fe GB is -0.21819305419921875 eV at site 3.

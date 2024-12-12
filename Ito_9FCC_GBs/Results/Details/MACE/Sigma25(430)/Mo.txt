@@ -1,0 +1,100 @@
+Potential: MACE(large)
+Model: large
+Lattice parameter: 3.6335
+GB: Sigma25(430)
+Atom number GB: 228
+Atom number bulk: 108
+Solute element: Mo
+Indices of calculated sites: [1, 2, 3, 4, 5, 12, 13, 28, 29, 31, 32, 45, 66, 67, 77, 79, 100, 101, 115, 116, 117, 118, 119, 126, 127, 142, 143, 145, 146, 159, 180, 181, 191, 193, 214, 215]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -905.1422300964848 eV.
+
+The energy of the bulk system substituded by one Mo atom is -907.4488918779356 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -1864.3116154798317 eV.
+
+-- Substitution of Mo --
+The E_gb_sub with site 1 (distance from GB plane: 1.1928475536371028 angstrom) substituded by Mo atom is -1867.149700930044 eV.
+The E_gb_sub with site 2 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.6805006480306 eV.
+The E_gb_sub with site 3 (distance from GB plane: 1.1981851372015093 angstrom) substituded by Mo atom is -1866.7999888866702 eV.
+The E_gb_sub with site 4 (distance from GB plane: 1.09098686928313 angstrom) substituded by Mo atom is -1866.8298381830614 eV.
+The E_gb_sub with site 5 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.804354951855 eV.
+The E_gb_sub with site 12 (distance from GB plane: 1.1928116255812462 angstrom) substituded by Mo atom is -1867.1497010450285 eV.
+The E_gb_sub with site 13 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.6284839182126 eV.
+The E_gb_sub with site 28 (distance from GB plane: 1.0909868692754952 angstrom) substituded by Mo atom is -1866.8298381830614 eV.
+The E_gb_sub with site 29 (distance from GB plane: 1.1981851370999923 angstrom) substituded by Mo atom is -1866.7999888866648 eV.
+The E_gb_sub with site 31 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.804354951855 eV.
+The E_gb_sub with site 32 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.6805006480306 eV.
+The E_gb_sub with site 45 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.6284839182126 eV.
+The E_gb_sub with site 66 (distance from GB plane: 0.8228761258196524 angstrom) substituded by Mo atom is -1866.7251475212804 eV.
+The E_gb_sub with site 67 (distance from GB plane: 0.8228761258193344 angstrom) substituded by Mo atom is -1866.7251475212804 eV.
+The E_gb_sub with site 77 (distance from GB plane: 2.4568470338628874 angstrom) substituded by Mo atom is -1866.7983312514436 eV.
+The E_gb_sub with site 79 (distance from GB plane: 2.312025553781522 angstrom) substituded by Mo atom is -1866.7166209560307 eV.
+The E_gb_sub with site 100 (distance from GB plane: 2.4568470339675095 angstrom) substituded by Mo atom is -1866.798331251443 eV.
+The E_gb_sub with site 101 (distance from GB plane: 2.312025554025176 angstrom) substituded by Mo atom is -1866.7166209560364 eV.
+The E_gb_sub with site 115 (distance from GB plane: 1.1928445434370847 angstrom) substituded by Mo atom is -1867.149700946266 eV.
+The E_gb_sub with site 116 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.6805006480306 eV.
+The E_gb_sub with site 117 (distance from GB plane: 1.1981851372018468 angstrom) substituded by Mo atom is -1866.7999888866702 eV.
+The E_gb_sub with site 118 (distance from GB plane: 1.0909868692831317 angstrom) substituded by Mo atom is -1866.8298381830614 eV.
+The E_gb_sub with site 119 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.804354951855 eV.
+The E_gb_sub with site 126 (distance from GB plane: 1.1928105659981405 angstrom) substituded by Mo atom is -1867.149701034974 eV.
+The E_gb_sub with site 127 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.6284839182126 eV.
+The E_gb_sub with site 142 (distance from GB plane: 1.0909868692755165 angstrom) substituded by Mo atom is -1866.8298381830614 eV.
+The E_gb_sub with site 143 (distance from GB plane: 1.1981851370997987 angstrom) substituded by Mo atom is -1866.7999888866648 eV.
+The E_gb_sub with site 145 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.8043549518547 eV.
+The E_gb_sub with site 146 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.6805006480304 eV.
+The E_gb_sub with site 159 (distance from GB plane: 0 angstrom) substituded by Mo atom is -1866.6284839182126 eV.
+The E_gb_sub with site 180 (distance from GB plane: 0.822876125819711 angstrom) substituded by Mo atom is -1866.7251475212802 eV.
+The E_gb_sub with site 181 (distance from GB plane: 0.8228761258192367 angstrom) substituded by Mo atom is -1866.7251475212804 eV.
+The E_gb_sub with site 191 (distance from GB plane: 2.4568470338645962 angstrom) substituded by Mo atom is -1866.7983312514434 eV.
+The E_gb_sub with site 193 (distance from GB plane: 2.312025553781254 angstrom) substituded by Mo atom is -1866.7166209560303 eV.
+The E_gb_sub with site 214 (distance from GB plane: 2.4568470339672963 angstrom) substituded by Mo atom is -1866.7983312514427 eV.
+The E_gb_sub with site 215 (distance from GB plane: 2.312025554024949 angstrom) substituded by Mo atom is -1866.7166209560364 eV.
+
+----- Segregation Energies -----
+The segregation energy of one Mo atom at site 1 (distance from GB plane: 1.1928475536371028 angstrom) in Fe GB is -0.5314236687614766 eV.
+The segregation energy of one Mo atom at site 2 (distance from GB plane: 0 angstrom) in Fe GB is -0.06222338674808725 eV.
+The segregation energy of one Mo atom at site 3 (distance from GB plane: 1.1981851372015093 angstrom) in Fe GB is -0.18171162538772023 eV.
+The segregation energy of one Mo atom at site 4 (distance from GB plane: 1.09098686928313 angstrom) in Fe GB is -0.21156092177886876 eV.
+The segregation energy of one Mo atom at site 5 (distance from GB plane: 0 angstrom) in Fe GB is -0.1860776905724606 eV.
+The segregation energy of one Mo atom at site 12 (distance from GB plane: 1.1928116255812462 angstrom) in Fe GB is -0.5314237837459359 eV.
+The segregation energy of one Mo atom at site 13 (distance from GB plane: 0 angstrom) in Fe GB is -0.010206656930108693 eV.
+The segregation energy of one Mo atom at site 28 (distance from GB plane: 1.0909868692754952 angstrom) in Fe GB is -0.21156092177886876 eV.
+The segregation energy of one Mo atom at site 29 (distance from GB plane: 1.1981851370999923 angstrom) in Fe GB is -0.18171162538226326 eV.
+The segregation energy of one Mo atom at site 31 (distance from GB plane: 0 angstrom) in Fe GB is -0.1860776905724606 eV.
+The segregation energy of one Mo atom at site 32 (distance from GB plane: 0 angstrom) in Fe GB is -0.06222338674808725 eV.
+The segregation energy of one Mo atom at site 45 (distance from GB plane: 0 angstrom) in Fe GB is -0.010206656930108693 eV.
+The segregation energy of one Mo atom at site 66 (distance from GB plane: 0.8228761258196524 angstrom) in Fe GB is -0.10687025999789057 eV.
+The segregation energy of one Mo atom at site 67 (distance from GB plane: 0.8228761258193344 angstrom) in Fe GB is -0.10687025999789057 eV.
+The segregation energy of one Mo atom at site 77 (distance from GB plane: 2.4568470338628874 angstrom) in Fe GB is -0.18005399016112733 eV.
+The segregation energy of one Mo atom at site 79 (distance from GB plane: 2.312025553781522 angstrom) in Fe GB is -0.09834369474822324 eV.
+The segregation energy of one Mo atom at site 100 (distance from GB plane: 2.4568470339675095 angstrom) in Fe GB is -0.1800539901604452 eV.
+The segregation energy of one Mo atom at site 101 (distance from GB plane: 2.312025554025176 angstrom) in Fe GB is -0.09834369475390758 eV.
+The segregation energy of one Mo atom at site 115 (distance from GB plane: 1.1928445434370847 angstrom) in Fe GB is -0.5314236849834515 eV.
+The segregation energy of one Mo atom at site 116 (distance from GB plane: 0 angstrom) in Fe GB is -0.06222338674808725 eV.
+The segregation energy of one Mo atom at site 117 (distance from GB plane: 1.1981851372018468 angstrom) in Fe GB is -0.18171162538772023 eV.
+The segregation energy of one Mo atom at site 118 (distance from GB plane: 1.0909868692831317 angstrom) in Fe GB is -0.21156092177886876 eV.
+The segregation energy of one Mo atom at site 119 (distance from GB plane: 0 angstrom) in Fe GB is -0.1860776905724606 eV.
+The segregation energy of one Mo atom at site 126 (distance from GB plane: 1.1928105659981405 angstrom) in Fe GB is -0.531423773691472 eV.
+The segregation energy of one Mo atom at site 127 (distance from GB plane: 0 angstrom) in Fe GB is -0.010206656930108693 eV.
+The segregation energy of one Mo atom at site 142 (distance from GB plane: 1.0909868692755165 angstrom) in Fe GB is -0.21156092177886876 eV.
+The segregation energy of one Mo atom at site 143 (distance from GB plane: 1.1981851370997987 angstrom) in Fe GB is -0.18171162538226326 eV.
+The segregation energy of one Mo atom at site 145 (distance from GB plane: 0 angstrom) in Fe GB is -0.18607769057223322 eV.
+The segregation energy of one Mo atom at site 146 (distance from GB plane: 0 angstrom) in Fe GB is -0.06222338674785988 eV.
+The segregation energy of one Mo atom at site 159 (distance from GB plane: 0 angstrom) in Fe GB is -0.010206656930108693 eV.
+The segregation energy of one Mo atom at site 180 (distance from GB plane: 0.822876125819711 angstrom) in Fe GB is -0.1068702599976632 eV.
+The segregation energy of one Mo atom at site 181 (distance from GB plane: 0.8228761258192367 angstrom) in Fe GB is -0.10687025999789057 eV.
+The segregation energy of one Mo atom at site 191 (distance from GB plane: 2.4568470338645962 angstrom) in Fe GB is -0.18005399016089996 eV.
+The segregation energy of one Mo atom at site 193 (distance from GB plane: 2.312025553781254 angstrom) in Fe GB is -0.0983436947477685 eV.
+The segregation energy of one Mo atom at site 214 (distance from GB plane: 2.4568470339672963 angstrom) in Fe GB is -0.18005399016021784 eV.
+The segregation energy of one Mo atom at site 215 (distance from GB plane: 2.312025554024949 angstrom) in Fe GB is -0.09834369475390758 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one Mo atom in Fe GB is -0.5314237837459359 eV at site 12.

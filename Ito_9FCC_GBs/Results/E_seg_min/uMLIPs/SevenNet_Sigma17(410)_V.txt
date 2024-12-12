@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma17(410)_V = 2.61712646484375

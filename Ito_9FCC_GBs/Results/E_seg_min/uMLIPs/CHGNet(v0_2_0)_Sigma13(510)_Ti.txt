@@ -1,0 +1,1 @@
+E_seg_min_data_CHGNet(v0.2.0)_Sigma13(510)_Ti = 0.9437904357910156

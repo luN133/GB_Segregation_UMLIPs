@@ -1,0 +1,1 @@
+E_seg_min_data_CHGNet(v0.2.0)_Sigma5(310)_Cr = -1.8153190612792969

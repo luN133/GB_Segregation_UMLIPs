@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma37(610)_Nb = 0.4971923828125

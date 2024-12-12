@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma37(610)_Mo = 2.616455078125

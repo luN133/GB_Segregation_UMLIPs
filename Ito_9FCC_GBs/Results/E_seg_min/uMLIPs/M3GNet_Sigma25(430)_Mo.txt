@@ -1,0 +1,1 @@
+E_seg_min_data_M3GNet_Sigma25(430)_Mo = -203.6483154296875

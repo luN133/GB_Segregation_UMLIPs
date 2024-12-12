@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma41(540)_Mo = -10385982139.046997

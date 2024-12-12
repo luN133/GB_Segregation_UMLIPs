@@ -1,0 +1,1 @@
+E_seg_min_data_CHGNet(v0.2.0)_Sigma37(610)_Cu = -0.6789665222167969

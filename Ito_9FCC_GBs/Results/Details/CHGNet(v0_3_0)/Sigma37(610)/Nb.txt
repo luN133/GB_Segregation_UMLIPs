@@ -1,0 +1,108 @@
+Potential: CHGNet(v0.3.0)
+Model: 0.3.0
+Lattice parameter: 3.4956
+GB: Sigma37(610)
+Atom number GB: 276
+Atom number bulk: 108
+Solute element: Nb
+Indices of calculated sites: [64, 65, 66, 67, 68, 69, 70, 71, 72, 76, 85, 86, 98, 110, 111, 120, 121, 131, 134, 137, 202, 203, 204, 205, 206, 207, 208, 209, 210, 214, 223, 224, 236, 248, 249, 258, 259, 269, 272, 275]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -901.3336715698242 eV.
+
+The energy of the bulk system substituded by one Nb atom is -903.4115295410156 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -2268.515293121338 eV.
+
+-- Substitution of Nb --
+The E_gb_sub with site 64 (distance from GB plane: 0.49438589280671863 angstrom) substituded by Nb atom is -2270.5494117736816 eV.
+The E_gb_sub with site 65 (distance from GB plane: 0.23917320902114092 angstrom) substituded by Nb atom is -2270.6807556152344 eV.
+The E_gb_sub with site 66 (distance from GB plane: 0.744996988573007 angstrom) substituded by Nb atom is -2270.292251586914 eV.
+The E_gb_sub with site 67 (distance from GB plane: 0.7904733814404867 angstrom) substituded by Nb atom is -2270.535987854004 eV.
+The E_gb_sub with site 68 (distance from GB plane: 0.5503437397130018 angstrom) substituded by Nb atom is -2271.0513610839844 eV.
+The E_gb_sub with site 69 (distance from GB plane: 0.5064674018854909 angstrom) substituded by Nb atom is -2270.5454635620117 eV.
+The E_gb_sub with site 70 (distance from GB plane: 0.8133124633814734 angstrom) substituded by Nb atom is -2270.539409637451 eV.
+The E_gb_sub with site 71 (distance from GB plane: 0.494331623637116 angstrom) substituded by Nb atom is -2271.453815460205 eV.
+The E_gb_sub with site 72 (distance from GB plane: 0.49815469960207004 angstrom) substituded by Nb atom is -2271.4588165283203 eV.
+The E_gb_sub with site 76 (distance from GB plane: 2.3505383247401532 angstrom) substituded by Nb atom is -2270.4628143310547 eV.
+The E_gb_sub with site 85 (distance from GB plane: 2.3399782119712285 angstrom) substituded by Nb atom is -2270.6231117248535 eV.
+The E_gb_sub with site 86 (distance from GB plane: 2.3310725377265715 angstrom) substituded by Nb atom is -2270.457286834717 eV.
+The E_gb_sub with site 98 (distance from GB plane: 1.5211165927640238 angstrom) substituded by Nb atom is -2270.5852088928223 eV.
+The E_gb_sub with site 110 (distance from GB plane: 1.770521920493561 angstrom) substituded by Nb atom is -2270.592052459717 eV.
+The E_gb_sub with site 111 (distance from GB plane: 2.2935206180700405 angstrom) substituded by Nb atom is -2270.3504219055176 eV.
+The E_gb_sub with site 120 (distance from GB plane: 2.3349743354718733 angstrom) substituded by Nb atom is -2270.454391479492 eV.
+The E_gb_sub with site 121 (distance from GB plane: 2.355874839173376 angstrom) substituded by Nb atom is -2270.6125831604004 eV.
+The E_gb_sub with site 131 (distance from GB plane: 1.169255069952909 angstrom) substituded by Nb atom is -2270.641273498535 eV.
+The E_gb_sub with site 134 (distance from GB plane: 1.6461280615586311 angstrom) substituded by Nb atom is -2270.6357460021973 eV.
+The E_gb_sub with site 137 (distance from GB plane: 0.4966998415255137 angstrom) substituded by Nb atom is -2270.895538330078 eV.
+The E_gb_sub with site 202 (distance from GB plane: 0.4838796905114435 angstrom) substituded by Nb atom is -2270.5549392700195 eV.
+The E_gb_sub with site 203 (distance from GB plane: 0 angstrom) substituded by Nb atom is -2270.2811965942383 eV.
+The E_gb_sub with site 204 (distance from GB plane: 0.9343345895489197 angstrom) substituded by Nb atom is -2270.294620513916 eV.
+The E_gb_sub with site 205 (distance from GB plane: 0.20133062951545 angstrom) substituded by Nb atom is -2270.5286178588867 eV.
+The E_gb_sub with site 206 (distance from GB plane: 0.4914251615676246 angstrom) substituded by Nb atom is -2270.9310722351074 eV.
+The E_gb_sub with site 207 (distance from GB plane: 0.5042773297197574 angstrom) substituded by Nb atom is -2270.5486221313477 eV.
+The E_gb_sub with site 208 (distance from GB plane: 0.20029449673712918 angstrom) substituded by Nb atom is -2270.5323028564453 eV.
+The E_gb_sub with site 209 (distance from GB plane: 0.4959896540045907 angstrom) substituded by Nb atom is -2271.46671295166 eV.
+The E_gb_sub with site 210 (distance from GB plane: 0.5009256976896665 angstrom) substituded by Nb atom is -2271.446708679199 eV.
+The E_gb_sub with site 214 (distance from GB plane: 2.3236271764628995 angstrom) substituded by Nb atom is -2270.4441261291504 eV.
+The E_gb_sub with site 223 (distance from GB plane: 2.3499089951011847 angstrom) substituded by Nb atom is -2270.609687805176 eV.
+The E_gb_sub with site 224 (distance from GB plane: 2.321157072864919 angstrom) substituded by Nb atom is -2270.4780807495117 eV.
+The E_gb_sub with site 236 (distance from GB plane: 1.4871491197097981 angstrom) substituded by Nb atom is -2270.5917892456055 eV.
+The E_gb_sub with site 248 (distance from GB plane: 1.6521224054744685 angstrom) substituded by Nb atom is -2270.5981063842773 eV.
+The E_gb_sub with site 249 (distance from GB plane: 2.3240007893698422 angstrom) substituded by Nb atom is -2270.3527908325195 eV.
+The E_gb_sub with site 258 (distance from GB plane: 2.350604983630758 angstrom) substituded by Nb atom is -2270.4641304016113 eV.
+The E_gb_sub with site 259 (distance from GB plane: 2.327142294113436 angstrom) substituded by Nb atom is -2270.6310081481934 eV.
+The E_gb_sub with site 269 (distance from GB plane: 1.1916437101540591 angstrom) substituded by Nb atom is -2270.642852783203 eV.
+The E_gb_sub with site 272 (distance from GB plane: 1.772852343731273 angstrom) substituded by Nb atom is -2270.574680328369 eV.
+The E_gb_sub with site 275 (distance from GB plane: 0.4971755871894885 angstrom) substituded by Nb atom is -2270.8968544006348 eV.
+
+----- Segregation Energies -----
+The segregation energy of one Nb atom at site 64 (distance from GB plane: 0.49438589280671863 angstrom) in Fe GB is 0.04373931884765625 eV.
+The segregation energy of one Nb atom at site 65 (distance from GB plane: 0.23917320902114092 angstrom) in Fe GB is -0.08760452270507812 eV.
+The segregation energy of one Nb atom at site 66 (distance from GB plane: 0.744996988573007 angstrom) in Fe GB is 0.3008995056152344 eV.
+The segregation energy of one Nb atom at site 67 (distance from GB plane: 0.7904733814404867 angstrom) in Fe GB is 0.057163238525390625 eV.
+The segregation energy of one Nb atom at site 68 (distance from GB plane: 0.5503437397130018 angstrom) in Fe GB is -0.4582099914550781 eV.
+The segregation energy of one Nb atom at site 69 (distance from GB plane: 0.5064674018854909 angstrom) in Fe GB is 0.047687530517578125 eV.
+The segregation energy of one Nb atom at site 70 (distance from GB plane: 0.8133124633814734 angstrom) in Fe GB is 0.053741455078125 eV.
+The segregation energy of one Nb atom at site 71 (distance from GB plane: 0.494331623637116 angstrom) in Fe GB is -0.8606643676757812 eV.
+The segregation energy of one Nb atom at site 72 (distance from GB plane: 0.49815469960207004 angstrom) in Fe GB is -0.8656654357910156 eV.
+The segregation energy of one Nb atom at site 76 (distance from GB plane: 2.3505383247401532 angstrom) in Fe GB is 0.13033676147460938 eV.
+The segregation energy of one Nb atom at site 85 (distance from GB plane: 2.3399782119712285 angstrom) in Fe GB is -0.02996063232421875 eV.
+The segregation energy of one Nb atom at site 86 (distance from GB plane: 2.3310725377265715 angstrom) in Fe GB is 0.1358642578125 eV.
+The segregation energy of one Nb atom at site 98 (distance from GB plane: 1.5211165927640238 angstrom) in Fe GB is 0.00794219970703125 eV.
+The segregation energy of one Nb atom at site 110 (distance from GB plane: 1.770521920493561 angstrom) in Fe GB is 0.0010986328125 eV.
+The segregation energy of one Nb atom at site 111 (distance from GB plane: 2.2935206180700405 angstrom) in Fe GB is 0.24272918701171875 eV.
+The segregation energy of one Nb atom at site 120 (distance from GB plane: 2.3349743354718733 angstrom) in Fe GB is 0.13875961303710938 eV.
+The segregation energy of one Nb atom at site 121 (distance from GB plane: 2.355874839173376 angstrom) in Fe GB is -0.01943206787109375 eV.
+The segregation energy of one Nb atom at site 131 (distance from GB plane: 1.169255069952909 angstrom) in Fe GB is -0.048122406005859375 eV.
+The segregation energy of one Nb atom at site 134 (distance from GB plane: 1.6461280615586311 angstrom) in Fe GB is -0.04259490966796875 eV.
+The segregation energy of one Nb atom at site 137 (distance from GB plane: 0.4966998415255137 angstrom) in Fe GB is -0.3023872375488281 eV.
+The segregation energy of one Nb atom at site 202 (distance from GB plane: 0.4838796905114435 angstrom) in Fe GB is 0.038211822509765625 eV.
+The segregation energy of one Nb atom at site 203 (distance from GB plane: 0 angstrom) in Fe GB is 0.3119544982910156 eV.
+The segregation energy of one Nb atom at site 204 (distance from GB plane: 0.9343345895489197 angstrom) in Fe GB is 0.29853057861328125 eV.
+The segregation energy of one Nb atom at site 205 (distance from GB plane: 0.20133062951545 angstrom) in Fe GB is 0.06453323364257812 eV.
+The segregation energy of one Nb atom at site 206 (distance from GB plane: 0.4914251615676246 angstrom) in Fe GB is -0.337921142578125 eV.
+The segregation energy of one Nb atom at site 207 (distance from GB plane: 0.5042773297197574 angstrom) in Fe GB is 0.044528961181640625 eV.
+The segregation energy of one Nb atom at site 208 (distance from GB plane: 0.20029449673712918 angstrom) in Fe GB is 0.060848236083984375 eV.
+The segregation energy of one Nb atom at site 209 (distance from GB plane: 0.4959896540045907 angstrom) in Fe GB is -0.8735618591308594 eV.
+The segregation energy of one Nb atom at site 210 (distance from GB plane: 0.5009256976896665 angstrom) in Fe GB is -0.8535575866699219 eV.
+The segregation energy of one Nb atom at site 214 (distance from GB plane: 2.3236271764628995 angstrom) in Fe GB is 0.14902496337890625 eV.
+The segregation energy of one Nb atom at site 223 (distance from GB plane: 2.3499089951011847 angstrom) in Fe GB is -0.016536712646484375 eV.
+The segregation energy of one Nb atom at site 224 (distance from GB plane: 2.321157072864919 angstrom) in Fe GB is 0.11507034301757812 eV.
+The segregation energy of one Nb atom at site 236 (distance from GB plane: 1.4871491197097981 angstrom) in Fe GB is 0.001361846923828125 eV.
+The segregation energy of one Nb atom at site 248 (distance from GB plane: 1.6521224054744685 angstrom) in Fe GB is -0.004955291748046875 eV.
+The segregation energy of one Nb atom at site 249 (distance from GB plane: 2.3240007893698422 angstrom) in Fe GB is 0.24036026000976562 eV.
+The segregation energy of one Nb atom at site 258 (distance from GB plane: 2.350604983630758 angstrom) in Fe GB is 0.12902069091796875 eV.
+The segregation energy of one Nb atom at site 259 (distance from GB plane: 2.327142294113436 angstrom) in Fe GB is -0.0378570556640625 eV.
+The segregation energy of one Nb atom at site 269 (distance from GB plane: 1.1916437101540591 angstrom) in Fe GB is -0.049701690673828125 eV.
+The segregation energy of one Nb atom at site 272 (distance from GB plane: 1.772852343731273 angstrom) in Fe GB is 0.01847076416015625 eV.
+The segregation energy of one Nb atom at site 275 (distance from GB plane: 0.4971755871894885 angstrom) in Fe GB is -0.30370330810546875 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one Nb atom in Fe GB is -0.8735618591308594 eV at site 209.

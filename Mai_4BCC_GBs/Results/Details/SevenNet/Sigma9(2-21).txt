@@ -1,0 +1,182 @@
+Potential: SevenNet
+Lattice parameter: 2.8456892365576505
+GB: Sigma9(2-21)
+Atom number GB: 68
+Atom number bulk: 128
+Solute elements: ['Ti', 'V', 'Cr', 'Mn', 'Co', 'Ni', 'Cu', 'Nb', 'Mo', 'W']
+Indices of calculated sites: [23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -1070.8143310546875 eV.
+
+The energy of the bulk system substituded by one Ti atom is -1071.188720703125 eV.
+The energy of the bulk system substituded by one V atom is -1072.104248046875 eV.
+The energy of the bulk system substituded by one Cr atom is -1072.27001953125 eV.
+The energy of the bulk system substituded by one Mn atom is -1071.5687255859375 eV.
+The energy of the bulk system substituded by one Co atom is -1069.90283203125 eV.
+The energy of the bulk system substituded by one Ni atom is -1068.4908447265625 eV.
+The energy of the bulk system substituded by one Cu atom is -1066.598876953125 eV.
+The energy of the bulk system substituded by one Nb atom is -1072.5999755859375 eV.
+The energy of the bulk system substituded by one Mo atom is -1073.1016845703125 eV.
+The energy of the bulk system substituded by one W atom is -1074.880126953125 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -562.1049194335938 eV.
+
+-- Substitution of Ti --
+The E_gb_sub with site 23 (distance from GB plane: 5.761972987971738 angstrom) substituded by one Ti atom at site 23 is -562.4951782226562 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.236633652039831 angstrom) substituded by one Ti atom at site 24 is -562.5619506835938 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.697926565261536 angstrom) substituded by one Ti atom at site 25 is -562.4876098632812 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.395169240872782 angstrom) substituded by one Ti atom at site 26 is -562.507080078125 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.807962649112973 angstrom) substituded by one Ti atom at site 27 is -562.5606689453125 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.1265865625262883 angstrom) substituded by one Ti atom at site 28 is -562.7474365234375 eV.
+The E_gb_sub with site 29 (distance from GB plane: 2.380755804161968 angstrom) substituded by one Ti atom at site 29 is -563.3651123046875 eV.
+The E_gb_sub with site 30 (distance from GB plane: 2.26565635723302 angstrom) substituded by one Ti atom at site 30 is -562.9295654296875 eV.
+The E_gb_sub with site 31 (distance from GB plane: 1.9494825348800582 angstrom) substituded by one Ti atom at site 31 is -562.814697265625 eV.
+The E_gb_sub with site 32 (distance from GB plane: 1.346875199498541 angstrom) substituded by one Ti atom at site 32 is -562.8689575195312 eV.
+The E_gb_sub with site 33 (distance from GB plane: 1.0805053206620983 angstrom) substituded by one Ti atom at site 33 is -562.7526245117188 eV.
+The E_gb_sub with site 34 (distance from GB plane: 0 angstrom) substituded by one Ti atom at site 34 is -563.3643798828125 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0.11610351270055475 angstrom) substituded by one Ti atom at site 35 is -562.9285278320312 eV.
+The E_gb_sub with site 36 (distance from GB plane: 0 angstrom) substituded by one Ti atom at site 36 is -562.3260498046875 eV.
+
+-- Substitution of V --
+The E_gb_sub with site 23 (distance from GB plane: 5.744176574477873 angstrom) substituded by one V atom at site 23 is -563.3468627929688 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.223079158825918 angstrom) substituded by one V atom at site 24 is -563.3656616210938 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.7522495632467106 angstrom) substituded by one V atom at site 25 is -563.3133544921875 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.366255747856847 angstrom) substituded by one V atom at site 26 is -563.367431640625 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.8101581838105787 angstrom) substituded by one V atom at site 27 is -563.4071655273438 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.3408168645045073 angstrom) substituded by one V atom at site 28 is -563.4054565429688 eV.
+The E_gb_sub with site 29 (distance from GB plane: 4.531448465161546 angstrom) substituded by one V atom at site 29 is -563.7305297851562 eV.
+The E_gb_sub with site 30 (distance from GB plane: 2.3653634737973945 angstrom) substituded by one V atom at site 30 is -563.36376953125 eV.
+The E_gb_sub with site 31 (distance from GB plane: 2.0367555212348343 angstrom) substituded by one V atom at site 31 is -563.457763671875 eV.
+The E_gb_sub with site 32 (distance from GB plane: 1.3801836171284023 angstrom) substituded by one V atom at site 32 is -563.51123046875 eV.
+The E_gb_sub with site 33 (distance from GB plane: 1.1330985891206602 angstrom) substituded by one V atom at site 33 is -563.402587890625 eV.
+The E_gb_sub with site 34 (distance from GB plane: 0 angstrom) substituded by one V atom at site 34 is -563.7293701171875 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0 angstrom) substituded by one V atom at site 35 is -563.6055908203125 eV.
+The E_gb_sub with site 36 (distance from GB plane: 0 angstrom) substituded by one V atom at site 36 is -563.3013916015625 eV.
+
+-- Substitution of Cr --
+The E_gb_sub with site 23 (distance from GB plane: 5.7447765202481165 angstrom) substituded by one Cr atom at site 23 is -563.4697265625 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.2233357634199535 angstrom) substituded by one Cr atom at site 24 is -563.4749755859375 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.7884989545785785 angstrom) substituded by one Cr atom at site 25 is -563.3992309570312 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.350558284412859 angstrom) substituded by one Cr atom at site 26 is -563.4688720703125 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.805206011816086 angstrom) substituded by one Cr atom at site 27 is -563.5064697265625 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.393655010455209 angstrom) substituded by one Cr atom at site 28 is -563.4547119140625 eV.
+The E_gb_sub with site 29 (distance from GB plane: 2.7581753342139663 angstrom) substituded by one Cr atom at site 29 is -563.5426025390625 eV.
+The E_gb_sub with site 30 (distance from GB plane: 2.4269729433327747 angstrom) substituded by one Cr atom at site 30 is -563.5256958007812 eV.
+The E_gb_sub with site 31 (distance from GB plane: 2.058847581496689 angstrom) substituded by one Cr atom at site 31 is -563.5503540039062 eV.
+The E_gb_sub with site 32 (distance from GB plane: 1.383471041464663 angstrom) substituded by one Cr atom at site 32 is -563.5355224609375 eV.
+The E_gb_sub with site 33 (distance from GB plane: 1.1621508782270382 angstrom) substituded by one Cr atom at site 33 is -563.5797729492188 eV.
+The E_gb_sub with site 34 (distance from GB plane: 0 angstrom) substituded by one Cr atom at site 34 is -563.607666015625 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0 angstrom) substituded by one Cr atom at site 35 is -563.7081909179688 eV.
+The E_gb_sub with site 36 (distance from GB plane: 0 angstrom) substituded by one Cr atom at site 36 is -563.5203857421875 eV.
+
+-- Substitution of Mn --
+The E_gb_sub with site 23 (distance from GB plane: 5.727634154918448 angstrom) substituded by one Mn atom at site 23 is -562.82763671875 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.2143880456793354 angstrom) substituded by one Mn atom at site 24 is -562.8008422851562 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.761897705325822 angstrom) substituded by one Mn atom at site 25 is -562.72900390625 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.357161805057981 angstrom) substituded by one Mn atom at site 26 is -562.803466796875 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.7959384754725924 angstrom) substituded by one Mn atom at site 27 is -562.7921752929688 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.3920196029459255 angstrom) substituded by one Mn atom at site 28 is -562.783203125 eV.
+The E_gb_sub with site 29 (distance from GB plane: 2.739900529088164 angstrom) substituded by one Mn atom at site 29 is -562.8482666015625 eV.
+The E_gb_sub with site 30 (distance from GB plane: 2.432917825311357 angstrom) substituded by one Mn atom at site 30 is -562.8547973632812 eV.
+The E_gb_sub with site 31 (distance from GB plane: 2.1204300559699973 angstrom) substituded by one Mn atom at site 31 is -562.7711791992188 eV.
+The E_gb_sub with site 32 (distance from GB plane: 1.3831624675132907 angstrom) substituded by one Mn atom at site 32 is -562.83837890625 eV.
+The E_gb_sub with site 33 (distance from GB plane: 1.1319731398112225 angstrom) substituded by one Mn atom at site 33 is -562.90234375 eV.
+The E_gb_sub with site 34 (distance from GB plane: 0 angstrom) substituded by one Mn atom at site 34 is -562.9031982421875 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0 angstrom) substituded by one Mn atom at site 35 is -562.9838256835938 eV.
+The E_gb_sub with site 36 (distance from GB plane: 0 angstrom) substituded by one Mn atom at site 36 is -562.8443603515625 eV.
+
+-- Substitution of Co --
+The E_gb_sub with site 23 (distance from GB plane: 5.742818827970616 angstrom) substituded by one Co atom at site 23 is -561.0996704101562 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.205859194569623 angstrom) substituded by one Co atom at site 24 is -561.0953369140625 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.734363727471976 angstrom) substituded by one Co atom at site 25 is -561.0645751953125 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.353807281295342 angstrom) substituded by one Co atom at site 26 is -561.0936279296875 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.759615597935788 angstrom) substituded by one Co atom at site 27 is -561.120849609375 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.367274651456853 angstrom) substituded by one Co atom at site 28 is -561.0864868164062 eV.
+The E_gb_sub with site 29 (distance from GB plane: 2.72466652515482 angstrom) substituded by one Co atom at site 29 is -561.135986328125 eV.
+The E_gb_sub with site 30 (distance from GB plane: 2.4302948889731297 angstrom) substituded by one Co atom at site 30 is -561.110107421875 eV.
+The E_gb_sub with site 31 (distance from GB plane: 2.0308445758442453 angstrom) substituded by one Co atom at site 31 is -561.06884765625 eV.
+The E_gb_sub with site 32 (distance from GB plane: 1.2967302610832583 angstrom) substituded by one Co atom at site 32 is -561.24560546875 eV.
+The E_gb_sub with site 33 (distance from GB plane: 1.1402987752267073 angstrom) substituded by one Co atom at site 33 is -561.115234375 eV.
+The E_gb_sub with site 34 (distance from GB plane: 0 angstrom) substituded by one Co atom at site 34 is -561.1368408203125 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0 angstrom) substituded by one Co atom at site 35 is -561.2123413085938 eV.
+The E_gb_sub with site 36 (distance from GB plane: 0 angstrom) substituded by one Co atom at site 36 is -561.0361938476562 eV.
+
+-- Substitution of Ni --
+The E_gb_sub with site 23 (distance from GB plane: 5.742655799868071 angstrom) substituded by one Ni atom at site 23 is -559.7235717773438 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.204603486196355 angstrom) substituded by one Ni atom at site 24 is -559.736083984375 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.7492273933051194 angstrom) substituded by one Ni atom at site 25 is -559.6831665039062 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.365502224085766 angstrom) substituded by one Ni atom at site 26 is -559.689453125 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.7851663035837575 angstrom) substituded by one Ni atom at site 27 is -559.7706298828125 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.3620606755037663 angstrom) substituded by one Ni atom at site 28 is -559.7539672851562 eV.
+The E_gb_sub with site 29 (distance from GB plane: 2.739299010842334 angstrom) substituded by one Ni atom at site 29 is -559.7855224609375 eV.
+The E_gb_sub with site 30 (distance from GB plane: 2.4474270680254406 angstrom) substituded by one Ni atom at site 30 is -559.7131958007812 eV.
+The E_gb_sub with site 31 (distance from GB plane: 2.0155140812869448 angstrom) substituded by one Ni atom at site 31 is -559.6814575195312 eV.
+The E_gb_sub with site 32 (distance from GB plane: 1.3420431222041493 angstrom) substituded by one Ni atom at site 32 is -559.809326171875 eV.
+The E_gb_sub with site 33 (distance from GB plane: 1.1553197378948497 angstrom) substituded by one Ni atom at site 33 is -559.775146484375 eV.
+The E_gb_sub with site 34 (distance from GB plane: 0 angstrom) substituded by one Ni atom at site 34 is -559.7381591796875 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0 angstrom) substituded by one Ni atom at site 35 is -559.7843017578125 eV.
+The E_gb_sub with site 36 (distance from GB plane: 0 angstrom) substituded by one Ni atom at site 36 is -559.7173461914062 eV.
+
+-- Substitution of Cu --
+The E_gb_sub with site 23 (distance from GB plane: 5.723934300530026 angstrom) substituded by one Cu atom at site 23 is -557.9055786132812 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.210327800909557 angstrom) substituded by one Cu atom at site 24 is -557.8785400390625 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.75228104268372 angstrom) substituded by one Cu atom at site 25 is -557.7717895507812 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.375201330159726 angstrom) substituded by one Cu atom at site 26 is -557.8346557617188 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.8173034770209604 angstrom) substituded by one Cu atom at site 27 is -557.8087768554688 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.34110668365399 angstrom) substituded by one Cu atom at site 28 is -557.9126586914062 eV.
+The E_gb_sub with site 29 (distance from GB plane: 2.7529541697223827 angstrom) substituded by one Cu atom at site 29 is -557.8548583984375 eV.
+The E_gb_sub with site 30 (distance from GB plane: 2.3751406830378983 angstrom) substituded by one Cu atom at site 30 is -557.9431762695312 eV.
+The E_gb_sub with site 31 (distance from GB plane: 2.1617866700437496 angstrom) substituded by one Cu atom at site 31 is -557.791259765625 eV.
+The E_gb_sub with site 32 (distance from GB plane: 1.1912327462390842 angstrom) substituded by one Cu atom at site 32 is -557.8801879882812 eV.
+The E_gb_sub with site 33 (distance from GB plane: 1.194676231374924 angstrom) substituded by one Cu atom at site 33 is -557.9964599609375 eV.
+The E_gb_sub with site 34 (distance from GB plane: 0 angstrom) substituded by one Cu atom at site 34 is -557.9432373046875 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0 angstrom) substituded by one Cu atom at site 35 is -557.9410400390625 eV.
+The E_gb_sub with site 36 (distance from GB plane: 0 angstrom) substituded by one Cu atom at site 36 is -557.7758178710938 eV.
+
+-- Substitution of Nb --
+The E_gb_sub with site 23 (distance from GB plane: 5.748102871004242 angstrom) substituded by one Nb atom at site 23 is -564.0897827148438 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.172775498099462 angstrom) substituded by one Nb atom at site 24 is -564.1441650390625 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.6315836294890715 angstrom) substituded by one Nb atom at site 25 is -564.6072998046875 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.379677548235726 angstrom) substituded by one Nb atom at site 26 is -564.1612548828125 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.7900596852177912 angstrom) substituded by one Nb atom at site 27 is -564.2838134765625 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.217989216682092 angstrom) substituded by one Nb atom at site 28 is -564.383544921875 eV.
+The E_gb_sub with site 29 (distance from GB plane: 2.3707144673001004 angstrom) substituded by one Nb atom at site 29 is -565.0732421875 eV.
+The E_gb_sub with site 30 (distance from GB plane: 2.266919512689089 angstrom) substituded by one Nb atom at site 30 is -564.6278076171875 eV.
+The E_gb_sub with site 31 (distance from GB plane: 2.0511086846241824 angstrom) substituded by one Nb atom at site 31 is -564.418212890625 eV.
+The E_gb_sub with site 32 (distance from GB plane: 1.3647847937676332 angstrom) substituded by one Nb atom at site 32 is -564.5322875976562 eV.
+The E_gb_sub with site 33 (distance from GB plane: 1.1368088912226497 angstrom) substituded by one Nb atom at site 33 is -564.2777099609375 eV.
+The E_gb_sub with site 34 (distance from GB plane: 0 angstrom) substituded by one Nb atom at site 34 is -565.069580078125 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0.11889381040610303 angstrom) substituded by one Nb atom at site 35 is -564.6272583007812 eV.
+The E_gb_sub with site 36 (distance from GB plane: 0.32906211149807874 angstrom) substituded by one Nb atom at site 36 is -564.425537109375 eV.
+
+-- Substitution of Mo --
+The E_gb_sub with site 23 (distance from GB plane: 5.757118237568992 angstrom) substituded by one Mo atom at site 23 is -564.3626098632812 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.237416734985466 angstrom) substituded by one Mo atom at site 24 is -564.3712158203125 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.752884621687919 angstrom) substituded by one Mo atom at site 25 is -564.3575439453125 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.386981603111018 angstrom) substituded by one Mo atom at site 26 is -564.374267578125 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.842031819090522 angstrom) substituded by one Mo atom at site 27 is -564.4553833007812 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.3562802331402217 angstrom) substituded by one Mo atom at site 28 is -564.4500732421875 eV.
+The E_gb_sub with site 29 (distance from GB plane: 2.3830680645165927 angstrom) substituded by one Mo atom at site 29 is -564.7785034179688 eV.
+The E_gb_sub with site 30 (distance from GB plane: 2.3754842308471353 angstrom) substituded by one Mo atom at site 30 is -564.7376708984375 eV.
+The E_gb_sub with site 31 (distance from GB plane: 2.024372941850981 angstrom) substituded by one Mo atom at site 31 is -564.4625854492188 eV.
+The E_gb_sub with site 32 (distance from GB plane: 1.4100507072515889 angstrom) substituded by one Mo atom at site 32 is -564.5936279296875 eV.
+The E_gb_sub with site 33 (distance from GB plane: 1.1360274614463606 angstrom) substituded by one Mo atom at site 33 is -564.4948120117188 eV.
+The E_gb_sub with site 34 (distance from GB plane: 0 angstrom) substituded by one Mo atom at site 34 is -564.77783203125 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0 angstrom) substituded by one Mo atom at site 35 is -564.7369995117188 eV.
+The E_gb_sub with site 36 (distance from GB plane: 0 angstrom) substituded by one Mo atom at site 36 is -564.2296752929688 eV.
+
+-- Substitution of W --
+The E_gb_sub with site 23 (distance from GB plane: 5.766127902760918 angstrom) substituded by one W atom at site 23 is -566.1874389648438 eV.
+The E_gb_sub with site 24 (distance from GB plane: 5.2337455028068085 angstrom) substituded by one W atom at site 24 is -566.18505859375 eV.
+The E_gb_sub with site 25 (distance from GB plane: 4.740678549200425 angstrom) substituded by one W atom at site 25 is -566.1917114257812 eV.
+The E_gb_sub with site 26 (distance from GB plane: 4.397873085652108 angstrom) substituded by one W atom at site 26 is -566.1920166015625 eV.
+The E_gb_sub with site 27 (distance from GB plane: 3.8307453681656582 angstrom) substituded by one W atom at site 27 is -566.2996826171875 eV.
+The E_gb_sub with site 28 (distance from GB plane: 3.368232060485603 angstrom) substituded by one W atom at site 28 is -566.2735595703125 eV.
+The E_gb_sub with site 29 (distance from GB plane: 2.385138133491779 angstrom) substituded by one W atom at site 29 is -566.6095581054688 eV.

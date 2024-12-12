@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma5(310)_Mo = 3.7476806640625

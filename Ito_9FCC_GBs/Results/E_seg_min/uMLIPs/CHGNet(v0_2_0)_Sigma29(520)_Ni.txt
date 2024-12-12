@@ -1,0 +1,1 @@
+E_seg_min_data_CHGNet(v0.2.0)_Sigma29(520)_Ni = 0.00940704345703125

@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma13(320)_Mo = 1.041259765625

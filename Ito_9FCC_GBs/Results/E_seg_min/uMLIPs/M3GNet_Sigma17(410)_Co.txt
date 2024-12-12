@@ -1,0 +1,1 @@
+E_seg_min_data_M3GNet_Sigma17(410)_Co = -2.037841796875

@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma29(520)_Ni = 2.32427978515625

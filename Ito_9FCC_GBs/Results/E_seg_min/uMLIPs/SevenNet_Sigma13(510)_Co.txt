@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma13(510)_Co = 3.5244140625

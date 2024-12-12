@@ -1,0 +1,1 @@
+E_seg_min_data_CHGNet(v0.3.0)_Sigma13(510)_Ni = -0.054996490478515625

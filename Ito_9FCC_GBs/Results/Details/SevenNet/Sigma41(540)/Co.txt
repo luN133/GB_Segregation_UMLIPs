@@ -1,0 +1,123 @@
+Potential: SevenNet
+Lattice parameter: 3.5164437099676644
+GB: Sigma41(540)
+Atom number GB: 288
+Atom number bulk: 108
+Solute element: Co
+Indices of calculated sites: [58, 62, 63, 65, 66, 68, 78, 79, 80, 82, 85, 96, 97, 98, 102, 112, 114, 115, 116, 117, 120, 130, 132, 134, 202, 206, 207, 209, 210, 212, 222, 223, 224, 226, 229, 240, 241, 242, 246, 256, 258, 259, 260, 261, 264, 274, 276, 278]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -901.94921875 eV.
+
+The energy of the bulk system substituded by one Co atom is -904.8367919921875 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -2366.78955078125 eV.
+
+-- Substitution of Co --
+The E_gb_sub with site 58 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.47021484375 eV.
+The E_gb_sub with site 62 (distance from GB plane: 2.5221555838715197 angstrom) substituded by Co atom is -2365.646484375 eV.
+The E_gb_sub with site 63 (distance from GB plane: 1.2828190801561181 angstrom) substituded by Co atom is -2365.7763671875 eV.
+The E_gb_sub with site 65 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.53466796875 eV.
+The E_gb_sub with site 66 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.333251953125 eV.
+The E_gb_sub with site 68 (distance from GB plane: 1.2666408580284223 angstrom) substituded by Co atom is -2365.3388671875 eV.
+The E_gb_sub with site 78 (distance from GB plane: 2.538015076704749 angstrom) substituded by Co atom is -2365.912109375 eV.
+The E_gb_sub with site 79 (distance from GB plane: 2.620348192274264 angstrom) substituded by Co atom is -2365.5224609375 eV.
+The E_gb_sub with site 80 (distance from GB plane: 1.3866308196815016 angstrom) substituded by Co atom is -2365.599853515625 eV.
+The E_gb_sub with site 82 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.577392578125 eV.
+The E_gb_sub with site 85 (distance from GB plane: 1.0185260165227064 angstrom) substituded by Co atom is -2365.520751953125 eV.
+The E_gb_sub with site 96 (distance from GB plane: 1.7452372072557942 angstrom) substituded by Co atom is -2365.661865234375 eV.
+The E_gb_sub with site 97 (distance from GB plane: 8.706253463250764 angstrom) substituded by Co atom is -2365.84033203125 eV.
+The E_gb_sub with site 98 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.446044921875 eV.
+The E_gb_sub with site 102 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.54931640625 eV.
+The E_gb_sub with site 112 (distance from GB plane: 2.5338450996057293 angstrom) substituded by Co atom is -2365.677490234375 eV.
+The E_gb_sub with site 114 (distance from GB plane: 1.241670871089621 angstrom) substituded by Co atom is -2365.404052734375 eV.
+The E_gb_sub with site 115 (distance from GB plane: 1.3204180090027897 angstrom) substituded by Co atom is -2365.39208984375 eV.
+The E_gb_sub with site 116 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.186279296875 eV.
+The E_gb_sub with site 117 (distance from GB plane: 2.506063282159623 angstrom) substituded by Co atom is -2365.50244140625 eV.
+The E_gb_sub with site 120 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.50537109375 eV.
+The E_gb_sub with site 130 (distance from GB plane: 2.4453049707186985 angstrom) substituded by Co atom is -2366.13427734375 eV.
+The E_gb_sub with site 132 (distance from GB plane: 1.1895017552871145 angstrom) substituded by Co atom is -2365.5341796875 eV.
+The E_gb_sub with site 134 (distance from GB plane: 1.8371853037505357 angstrom) substituded by Co atom is -2365.68798828125 eV.
+The E_gb_sub with site 202 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.4775390625 eV.
+The E_gb_sub with site 206 (distance from GB plane: 2.5344430859723506 angstrom) substituded by Co atom is -2365.565673828125 eV.
+The E_gb_sub with site 207 (distance from GB plane: 1.2832588900873834 angstrom) substituded by Co atom is -2365.794921875 eV.
+The E_gb_sub with site 209 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.544921875 eV.
+The E_gb_sub with site 210 (distance from GB plane: 1.4592392328410515 angstrom) substituded by Co atom is -2365.330810546875 eV.
+The E_gb_sub with site 212 (distance from GB plane: 1.2797458060572016 angstrom) substituded by Co atom is -2365.505126953125 eV.
+The E_gb_sub with site 222 (distance from GB plane: 2.510505456598059 angstrom) substituded by Co atom is -2365.821044921875 eV.
+The E_gb_sub with site 223 (distance from GB plane: 2.6119959246540674 angstrom) substituded by Co atom is -2365.49267578125 eV.
+The E_gb_sub with site 224 (distance from GB plane: 1.3705079614452789 angstrom) substituded by Co atom is -2365.494873046875 eV.
+The E_gb_sub with site 226 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.59033203125 eV.
+The E_gb_sub with site 229 (distance from GB plane: 1.0144510475974293 angstrom) substituded by Co atom is -2365.54833984375 eV.
+The E_gb_sub with site 240 (distance from GB plane: 1.744712677578983 angstrom) substituded by Co atom is -2365.6474609375 eV.
+The E_gb_sub with site 241 (distance from GB plane: 1.2570211656755887 angstrom) substituded by Co atom is -2365.701171875 eV.
+The E_gb_sub with site 242 (distance from GB plane: 0.10761856319554397 angstrom) substituded by Co atom is -2365.39306640625 eV.
+The E_gb_sub with site 246 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.656494140625 eV.
+The E_gb_sub with site 256 (distance from GB plane: 2.540968029967681 angstrom) substituded by Co atom is -2365.62451171875 eV.
+The E_gb_sub with site 258 (distance from GB plane: 1.2484280415770002 angstrom) substituded by Co atom is -2365.3798828125 eV.
+The E_gb_sub with site 259 (distance from GB plane: 1.3495250278073314 angstrom) substituded by Co atom is -2366.0966796875 eV.
+The E_gb_sub with site 260 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.21533203125 eV.
+The E_gb_sub with site 261 (distance from GB plane: 2.4919048503756294 angstrom) substituded by Co atom is -2365.492919921875 eV.
+The E_gb_sub with site 264 (distance from GB plane: 0 angstrom) substituded by Co atom is -2365.64599609375 eV.
+The E_gb_sub with site 274 (distance from GB plane: 2.4901527898466256 angstrom) substituded by Co atom is -2365.944580078125 eV.
+The E_gb_sub with site 276 (distance from GB plane: 1.2327650861033987 angstrom) substituded by Co atom is -2365.90673828125 eV.
+The E_gb_sub with site 278 (distance from GB plane: 1.8292715221906395 angstrom) substituded by Co atom is -2365.6953125 eV.
+
+----- Segregation Energies -----
+The segregation energy of one Co atom at site 58 (distance from GB plane: 0 angstrom) in Fe GB is 4.2069091796875 eV.
+The segregation energy of one Co atom at site 62 (distance from GB plane: 2.5221555838715197 angstrom) in Fe GB is 4.0306396484375 eV.
+The segregation energy of one Co atom at site 63 (distance from GB plane: 1.2828190801561181 angstrom) in Fe GB is 3.9007568359375 eV.
+The segregation energy of one Co atom at site 65 (distance from GB plane: 0 angstrom) in Fe GB is 4.1424560546875 eV.
+The segregation energy of one Co atom at site 66 (distance from GB plane: 0 angstrom) in Fe GB is 4.3438720703125 eV.
+The segregation energy of one Co atom at site 68 (distance from GB plane: 1.2666408580284223 angstrom) in Fe GB is 4.3382568359375 eV.
+The segregation energy of one Co atom at site 78 (distance from GB plane: 2.538015076704749 angstrom) in Fe GB is 3.7650146484375 eV.
+The segregation energy of one Co atom at site 79 (distance from GB plane: 2.620348192274264 angstrom) in Fe GB is 4.1546630859375 eV.
+The segregation energy of one Co atom at site 80 (distance from GB plane: 1.3866308196815016 angstrom) in Fe GB is 4.0772705078125 eV.
+The segregation energy of one Co atom at site 82 (distance from GB plane: 0 angstrom) in Fe GB is 4.0997314453125 eV.
+The segregation energy of one Co atom at site 85 (distance from GB plane: 1.0185260165227064 angstrom) in Fe GB is 4.1563720703125 eV.
+The segregation energy of one Co atom at site 96 (distance from GB plane: 1.7452372072557942 angstrom) in Fe GB is 4.0152587890625 eV.
+The segregation energy of one Co atom at site 97 (distance from GB plane: 8.706253463250764 angstrom) in Fe GB is 3.8367919921875 eV.
+The segregation energy of one Co atom at site 98 (distance from GB plane: 0 angstrom) in Fe GB is 4.2310791015625 eV.
+The segregation energy of one Co atom at site 102 (distance from GB plane: 0 angstrom) in Fe GB is 4.1278076171875 eV.
+The segregation energy of one Co atom at site 112 (distance from GB plane: 2.5338450996057293 angstrom) in Fe GB is 3.9996337890625 eV.
+The segregation energy of one Co atom at site 114 (distance from GB plane: 1.241670871089621 angstrom) in Fe GB is 4.2730712890625 eV.
+The segregation energy of one Co atom at site 115 (distance from GB plane: 1.3204180090027897 angstrom) in Fe GB is 4.2850341796875 eV.
+The segregation energy of one Co atom at site 116 (distance from GB plane: 0 angstrom) in Fe GB is 4.4908447265625 eV.
+The segregation energy of one Co atom at site 117 (distance from GB plane: 2.506063282159623 angstrom) in Fe GB is 4.1746826171875 eV.
+The segregation energy of one Co atom at site 120 (distance from GB plane: 0 angstrom) in Fe GB is 4.1717529296875 eV.
+The segregation energy of one Co atom at site 130 (distance from GB plane: 2.4453049707186985 angstrom) in Fe GB is 3.5428466796875 eV.
+The segregation energy of one Co atom at site 132 (distance from GB plane: 1.1895017552871145 angstrom) in Fe GB is 4.1429443359375 eV.
+The segregation energy of one Co atom at site 134 (distance from GB plane: 1.8371853037505357 angstrom) in Fe GB is 3.9891357421875 eV.
+The segregation energy of one Co atom at site 202 (distance from GB plane: 0 angstrom) in Fe GB is 4.1995849609375 eV.
+The segregation energy of one Co atom at site 206 (distance from GB plane: 2.5344430859723506 angstrom) in Fe GB is 4.1114501953125 eV.
+The segregation energy of one Co atom at site 207 (distance from GB plane: 1.2832588900873834 angstrom) in Fe GB is 3.8822021484375 eV.
+The segregation energy of one Co atom at site 209 (distance from GB plane: 0 angstrom) in Fe GB is 4.1322021484375 eV.
+The segregation energy of one Co atom at site 210 (distance from GB plane: 1.4592392328410515 angstrom) in Fe GB is 4.3463134765625 eV.
+The segregation energy of one Co atom at site 212 (distance from GB plane: 1.2797458060572016 angstrom) in Fe GB is 4.1719970703125 eV.
+The segregation energy of one Co atom at site 222 (distance from GB plane: 2.510505456598059 angstrom) in Fe GB is 3.8560791015625 eV.
+The segregation energy of one Co atom at site 223 (distance from GB plane: 2.6119959246540674 angstrom) in Fe GB is 4.1844482421875 eV.
+The segregation energy of one Co atom at site 224 (distance from GB plane: 1.3705079614452789 angstrom) in Fe GB is 4.1822509765625 eV.
+The segregation energy of one Co atom at site 226 (distance from GB plane: 0 angstrom) in Fe GB is 4.0867919921875 eV.
+The segregation energy of one Co atom at site 229 (distance from GB plane: 1.0144510475974293 angstrom) in Fe GB is 4.1287841796875 eV.
+The segregation energy of one Co atom at site 240 (distance from GB plane: 1.744712677578983 angstrom) in Fe GB is 4.0296630859375 eV.
+The segregation energy of one Co atom at site 241 (distance from GB plane: 1.2570211656755887 angstrom) in Fe GB is 3.9759521484375 eV.
+The segregation energy of one Co atom at site 242 (distance from GB plane: 0.10761856319554397 angstrom) in Fe GB is 4.2840576171875 eV.
+The segregation energy of one Co atom at site 246 (distance from GB plane: 0 angstrom) in Fe GB is 4.0206298828125 eV.
+The segregation energy of one Co atom at site 256 (distance from GB plane: 2.540968029967681 angstrom) in Fe GB is 4.0526123046875 eV.
+The segregation energy of one Co atom at site 258 (distance from GB plane: 1.2484280415770002 angstrom) in Fe GB is 4.2972412109375 eV.
+The segregation energy of one Co atom at site 259 (distance from GB plane: 1.3495250278073314 angstrom) in Fe GB is 3.5804443359375 eV.
+The segregation energy of one Co atom at site 260 (distance from GB plane: 0 angstrom) in Fe GB is 4.4617919921875 eV.
+The segregation energy of one Co atom at site 261 (distance from GB plane: 2.4919048503756294 angstrom) in Fe GB is 4.1842041015625 eV.
+The segregation energy of one Co atom at site 264 (distance from GB plane: 0 angstrom) in Fe GB is 4.0311279296875 eV.
+The segregation energy of one Co atom at site 274 (distance from GB plane: 2.4901527898466256 angstrom) in Fe GB is 3.7325439453125 eV.
+The segregation energy of one Co atom at site 276 (distance from GB plane: 1.2327650861033987 angstrom) in Fe GB is 3.7703857421875 eV.
+The segregation energy of one Co atom at site 278 (distance from GB plane: 1.8292715221906395 angstrom) in Fe GB is 3.9818115234375 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one Co atom in Fe GB is 3.5428466796875 eV at site 130.

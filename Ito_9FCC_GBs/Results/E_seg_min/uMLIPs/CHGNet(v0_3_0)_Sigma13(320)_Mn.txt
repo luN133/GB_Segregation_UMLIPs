@@ -1,0 +1,1 @@
+E_seg_min_data_CHGNet(v0.3.0)_Sigma13(320)_Mn = 0.06885528564453125

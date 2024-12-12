@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma41(540)_Cr = 3.1951904296875

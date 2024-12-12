@@ -1,0 +1,1 @@
+E_seg_min_data_MACE(large)_Sigma37(610)_Ti = -0.5851907079910461

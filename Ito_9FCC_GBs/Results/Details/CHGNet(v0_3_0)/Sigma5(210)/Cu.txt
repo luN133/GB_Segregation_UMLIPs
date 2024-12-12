@@ -1,0 +1,52 @@
+Potential: CHGNet(v0.3.0)
+Model: 0.3.0
+Lattice parameter: 3.4956
+GB: Sigma5(210)
+Atom number GB: 100
+Atom number bulk: 108
+Solute element: Cu
+Indices of calculated sites: [24, 25, 34, 35, 36, 46, 74, 75, 84, 85, 86, 96]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -901.3336715698242 eV.
+
+The energy of the bulk system substituded by one Cu atom is -896.6480369567871 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -820.2470779418945 eV.
+
+-- Substitution of Cu --
+The E_gb_sub with site 24 (distance from GB plane: 1.7902833120590618 angstrom) substituded by Cu atom is -815.6317710876465 eV.
+The E_gb_sub with site 25 (distance from GB plane: 0.5745038467086623 angstrom) substituded by Cu atom is -815.5900955200195 eV.
+The E_gb_sub with site 34 (distance from GB plane: 1.3330248474066302 angstrom) substituded by Cu atom is -815.6027793884277 eV.
+The E_gb_sub with site 35 (distance from GB plane: 0.5745174457891853 angstrom) substituded by Cu atom is -815.5900955200195 eV.
+The E_gb_sub with site 36 (distance from GB plane: 1.7902865365236718 angstrom) substituded by Cu atom is -815.6317710876465 eV.
+The E_gb_sub with site 46 (distance from GB plane: 1.3330248496955122 angstrom) substituded by Cu atom is -815.6027793884277 eV.
+The E_gb_sub with site 74 (distance from GB plane: 2.3811849511101606 angstrom) substituded by Cu atom is -815.5680656433105 eV.
+The E_gb_sub with site 75 (distance from GB plane: 0.5081757305342851 angstrom) substituded by Cu atom is -815.538215637207 eV.
+The E_gb_sub with site 84 (distance from GB plane: 1.6037858375253062 angstrom) substituded by Cu atom is -815.5239105224609 eV.
+The E_gb_sub with site 85 (distance from GB plane: 0.5081756225768768 angstrom) substituded by Cu atom is -815.538215637207 eV.
+The E_gb_sub with site 86 (distance from GB plane: 2.381179276519191 angstrom) substituded by Cu atom is -815.5680656433105 eV.
+The E_gb_sub with site 96 (distance from GB plane: 1.6037917968511834 angstrom) substituded by Cu atom is -815.5238151550293 eV.
+
+----- Segregation Energies -----
+The segregation energy of one Cu atom at site 24 (distance from GB plane: 1.7902833120590618 angstrom) in Fe GB is -0.0703277587890625 eV.
+The segregation energy of one Cu atom at site 25 (distance from GB plane: 0.5745038467086623 angstrom) in Fe GB is -0.028652191162109375 eV.
+The segregation energy of one Cu atom at site 34 (distance from GB plane: 1.3330248474066302 angstrom) in Fe GB is -0.0413360595703125 eV.
+The segregation energy of one Cu atom at site 35 (distance from GB plane: 0.5745174457891853 angstrom) in Fe GB is -0.028652191162109375 eV.
+The segregation energy of one Cu atom at site 36 (distance from GB plane: 1.7902865365236718 angstrom) in Fe GB is -0.0703277587890625 eV.
+The segregation energy of one Cu atom at site 46 (distance from GB plane: 1.3330248496955122 angstrom) in Fe GB is -0.0413360595703125 eV.
+The segregation energy of one Cu atom at site 74 (distance from GB plane: 2.3811849511101606 angstrom) in Fe GB is -0.006622314453125 eV.
+The segregation energy of one Cu atom at site 75 (distance from GB plane: 0.5081757305342851 angstrom) in Fe GB is 0.023227691650390625 eV.
+The segregation energy of one Cu atom at site 84 (distance from GB plane: 1.6037858375253062 angstrom) in Fe GB is 0.037532806396484375 eV.
+The segregation energy of one Cu atom at site 85 (distance from GB plane: 0.5081756225768768 angstrom) in Fe GB is 0.023227691650390625 eV.
+The segregation energy of one Cu atom at site 86 (distance from GB plane: 2.381179276519191 angstrom) in Fe GB is -0.006622314453125 eV.
+The segregation energy of one Cu atom at site 96 (distance from GB plane: 1.6037917968511834 angstrom) in Fe GB is 0.037628173828125 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one Cu atom in Fe GB is -0.0703277587890625 eV at site 24.

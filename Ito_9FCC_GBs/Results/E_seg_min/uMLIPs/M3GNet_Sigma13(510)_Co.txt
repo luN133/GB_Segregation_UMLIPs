@@ -1,0 +1,1 @@
+E_seg_min_data_M3GNet_Sigma13(510)_Co = 1.1546630859375

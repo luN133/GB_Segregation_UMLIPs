@@ -1,0 +1,1 @@
+E_seg_min_data_CHGNet(v0.3.0)_Sigma13(510)_Mo = -0.3643074035644531

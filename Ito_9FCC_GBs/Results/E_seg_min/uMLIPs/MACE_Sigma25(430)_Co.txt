@@ -1,0 +1,1 @@
+E_seg_min_data_MACE(large)_Sigma25(430)_Co = -0.2962493332759095

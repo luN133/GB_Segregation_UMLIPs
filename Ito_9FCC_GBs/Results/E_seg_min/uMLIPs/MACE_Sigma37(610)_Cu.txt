@@ -1,0 +1,1 @@
+E_seg_min_data_MACE(large)_Sigma37(610)_Cu = -0.18513326726701962

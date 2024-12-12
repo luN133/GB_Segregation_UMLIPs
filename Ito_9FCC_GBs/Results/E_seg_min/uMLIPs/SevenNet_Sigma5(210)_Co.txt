@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma5(210)_Co = 3.38970947265625

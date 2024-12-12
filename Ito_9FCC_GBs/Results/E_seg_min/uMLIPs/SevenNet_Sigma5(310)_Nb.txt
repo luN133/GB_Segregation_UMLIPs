@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma5(310)_Nb = 1.3929443359375

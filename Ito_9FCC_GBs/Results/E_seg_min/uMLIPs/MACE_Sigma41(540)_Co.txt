@@ -1,0 +1,1 @@
+E_seg_min_data_MACE(large)_Sigma41(540)_Co = -0.2262803556882318

@@ -1,0 +1,76 @@
+Potential: CHGNet(v0.2.0)
+Model: 0.2.0
+Lattice parameter: 3.4628
+GB: Sigma17(410)
+Atom number GB: 180
+Atom number bulk: 108
+Solute element: Ni
+Indices of calculated sites: [43, 45, 54, 56, 57, 67, 68, 69, 78, 79, 80, 89, 133, 135, 144, 146, 147, 157, 158, 159, 168, 169, 170, 179]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -897.1124496459961 eV.
+
+The energy of the bulk system substituded by one Ni atom is -894.6073608398438 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -1477.837257385254 eV.
+
+-- Substitution of Ni --
+The E_gb_sub with site 43 (distance from GB plane: 2.131615462136695 angstrom) substituded by Ni atom is -1475.2463722229004 eV.
+The E_gb_sub with site 45 (distance from GB plane: 0.6823907896750665 angstrom) substituded by Ni atom is -1475.2489471435547 eV.
+The E_gb_sub with site 54 (distance from GB plane: 2.5683021827345964 angstrom) substituded by Ni atom is -1475.265941619873 eV.
+The E_gb_sub with site 56 (distance from GB plane: 0.6076479969111084 angstrom) substituded by Ni atom is -1475.2669715881348 eV.
+The E_gb_sub with site 57 (distance from GB plane: 1.3490378219094445 angstrom) substituded by Ni atom is -1475.2578735351562 eV.
+The E_gb_sub with site 67 (distance from GB plane: 1.7202598068748518 angstrom) substituded by Ni atom is -1475.2199363708496 eV.
+The E_gb_sub with site 68 (distance from GB plane: 0.7374775454788445 angstrom) substituded by Ni atom is -1475.2467155456543 eV.
+The E_gb_sub with site 69 (distance from GB plane: 2.1742759072450024 angstrom) substituded by Ni atom is -1475.2499771118164 eV.
+The E_gb_sub with site 78 (distance from GB plane: 2.6556493443236633 angstrom) substituded by Ni atom is -1475.2786445617676 eV.
+The E_gb_sub with site 79 (distance from GB plane: 1.385573977013248 angstrom) substituded by Ni atom is -1475.2983856201172 eV.
+The E_gb_sub with site 80 (distance from GB plane: 0.6365468869101463 angstrom) substituded by Ni atom is -1475.2161598205566 eV.
+The E_gb_sub with site 89 (distance from GB plane: 1.7086099245948567 angstrom) substituded by Ni atom is -1475.2231979370117 eV.
+The E_gb_sub with site 133 (distance from GB plane: 2.2766074846001327 angstrom) substituded by Ni atom is -1475.229892730713 eV.
+The E_gb_sub with site 135 (distance from GB plane: 0.5723934518254659 angstrom) substituded by Ni atom is -1475.2788162231445 eV.
+The E_gb_sub with site 144 (distance from GB plane: 2.5712091061227618 angstrom) substituded by Ni atom is -1475.247573852539 eV.
+The E_gb_sub with site 146 (distance from GB plane: 0.6383652591946749 angstrom) substituded by Ni atom is -1475.2692031860352 eV.
+The E_gb_sub with site 147 (distance from GB plane: 0 angstrom) substituded by Ni atom is -1475.2649116516113 eV.
+The E_gb_sub with site 157 (distance from GB plane: 1.7553317804063742 angstrom) substituded by Ni atom is -1475.2010536193848 eV.
+The E_gb_sub with site 158 (distance from GB plane: 0.5857856700679491 angstrom) substituded by Ni atom is -1475.2463722229004 eV.
+The E_gb_sub with site 159 (distance from GB plane: 2.2097375195256266 angstrom) substituded by Ni atom is -1475.2310943603516 eV.
+The E_gb_sub with site 168 (distance from GB plane: 2.5986592374953297 angstrom) substituded by Ni atom is -1475.2372741699219 eV.
+The E_gb_sub with site 169 (distance from GB plane: 0 angstrom) substituded by Ni atom is -1475.2527236938477 eV.
+The E_gb_sub with site 170 (distance from GB plane: 0.6541509517859598 angstrom) substituded by Ni atom is -1475.2226829528809 eV.
+The E_gb_sub with site 179 (distance from GB plane: 1.8204579226706237 angstrom) substituded by Ni atom is -1475.2504920959473 eV.
+
+----- Segregation Energies -----
+The segregation energy of one Ni atom at site 43 (distance from GB plane: 2.131615462136695 angstrom) in Fe GB is 0.08579635620117188 eV.
+The segregation energy of one Ni atom at site 45 (distance from GB plane: 0.6823907896750665 angstrom) in Fe GB is 0.083221435546875 eV.
+The segregation energy of one Ni atom at site 54 (distance from GB plane: 2.5683021827345964 angstrom) in Fe GB is 0.06622695922851562 eV.
+The segregation energy of one Ni atom at site 56 (distance from GB plane: 0.6076479969111084 angstrom) in Fe GB is 0.06519699096679688 eV.
+The segregation energy of one Ni atom at site 57 (distance from GB plane: 1.3490378219094445 angstrom) in Fe GB is 0.0742950439453125 eV.
+The segregation energy of one Ni atom at site 67 (distance from GB plane: 1.7202598068748518 angstrom) in Fe GB is 0.11223220825195312 eV.
+The segregation energy of one Ni atom at site 68 (distance from GB plane: 0.7374775454788445 angstrom) in Fe GB is 0.08545303344726562 eV.
+The segregation energy of one Ni atom at site 69 (distance from GB plane: 2.1742759072450024 angstrom) in Fe GB is 0.08219146728515625 eV.
+The segregation energy of one Ni atom at site 78 (distance from GB plane: 2.6556493443236633 angstrom) in Fe GB is 0.053524017333984375 eV.
+The segregation energy of one Ni atom at site 79 (distance from GB plane: 1.385573977013248 angstrom) in Fe GB is 0.033782958984375 eV.
+The segregation energy of one Ni atom at site 80 (distance from GB plane: 0.6365468869101463 angstrom) in Fe GB is 0.11600875854492188 eV.
+The segregation energy of one Ni atom at site 89 (distance from GB plane: 1.7086099245948567 angstrom) in Fe GB is 0.10897064208984375 eV.
+The segregation energy of one Ni atom at site 133 (distance from GB plane: 2.2766074846001327 angstrom) in Fe GB is 0.10227584838867188 eV.
+The segregation energy of one Ni atom at site 135 (distance from GB plane: 0.5723934518254659 angstrom) in Fe GB is 0.05335235595703125 eV.
+The segregation energy of one Ni atom at site 144 (distance from GB plane: 2.5712091061227618 angstrom) in Fe GB is 0.0845947265625 eV.
+The segregation energy of one Ni atom at site 146 (distance from GB plane: 0.6383652591946749 angstrom) in Fe GB is 0.06296539306640625 eV.
+The segregation energy of one Ni atom at site 147 (distance from GB plane: 0 angstrom) in Fe GB is 0.06725692749023438 eV.
+The segregation energy of one Ni atom at site 157 (distance from GB plane: 1.7553317804063742 angstrom) in Fe GB is 0.13111495971679688 eV.
+The segregation energy of one Ni atom at site 158 (distance from GB plane: 0.5857856700679491 angstrom) in Fe GB is 0.08579635620117188 eV.
+The segregation energy of one Ni atom at site 159 (distance from GB plane: 2.2097375195256266 angstrom) in Fe GB is 0.10107421875 eV.
+The segregation energy of one Ni atom at site 168 (distance from GB plane: 2.5986592374953297 angstrom) in Fe GB is 0.0948944091796875 eV.
+The segregation energy of one Ni atom at site 169 (distance from GB plane: 0 angstrom) in Fe GB is 0.07944488525390625 eV.
+The segregation energy of one Ni atom at site 170 (distance from GB plane: 0.6541509517859598 angstrom) in Fe GB is 0.10948562622070312 eV.
+The segregation energy of one Ni atom at site 179 (distance from GB plane: 1.8204579226706237 angstrom) in Fe GB is 0.08167648315429688 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one Ni atom in Fe GB is 0.033782958984375 eV at site 79.

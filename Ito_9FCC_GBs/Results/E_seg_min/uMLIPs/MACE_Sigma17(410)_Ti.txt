@@ -1,0 +1,1 @@
+E_seg_min_data_MACE(large)_Sigma17(410)_Ti = -0.5670869787910533

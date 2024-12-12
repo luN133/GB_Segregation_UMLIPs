@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma17(410)_Cu = 1.91619873046875

@@ -1,0 +1,124 @@
+Potential: MACE(large)
+Model: large
+Lattice parameter: 3.6335
+GB: Sigma41(540)
+Atom number GB: 288
+Atom number bulk: 108
+Solute element: Ti
+Indices of calculated sites: [58, 62, 63, 65, 66, 68, 78, 79, 80, 82, 85, 96, 97, 98, 102, 112, 114, 115, 116, 117, 120, 130, 132, 134, 202, 206, 207, 209, 210, 212, 222, 223, 224, 226, 229, 240, 241, 242, 246, 256, 258, 259, 260, 261, 264, 274, 276, 278]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -905.1422300964848 eV.
+
+The energy of the bulk system substituded by one Ti atom is -905.7003723243421 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -2355.5691314333144 eV.
+
+-- Substitution of Ti --
+The E_gb_sub with site 58 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.348111706009 eV.
+The E_gb_sub with site 62 (distance from GB plane: 2.463032247012764 angstrom) substituded by Ti atom is -2356.2225326955895 eV.
+The E_gb_sub with site 63 (distance from GB plane: 1.189068952420559 angstrom) substituded by Ti atom is -2356.265811310907 eV.
+The E_gb_sub with site 65 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.148136188738 eV.
+The E_gb_sub with site 66 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.1705508048044 eV.
+The E_gb_sub with site 68 (distance from GB plane: 1.1877685482164502 angstrom) substituded by Ti atom is -2356.2417472985258 eV.
+The E_gb_sub with site 78 (distance from GB plane: 30.09133429037798 angstrom) substituded by Ti atom is -2356.1982800057913 eV.
+The E_gb_sub with site 79 (distance from GB plane: 2.447878261442206 angstrom) substituded by Ti atom is -2356.275856591559 eV.
+The E_gb_sub with site 80 (distance from GB plane: 1.107667417300922 angstrom) substituded by Ti atom is -2356.3304939969767 eV.
+The E_gb_sub with site 82 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.1628651074593 eV.
+The E_gb_sub with site 85 (distance from GB plane: 0.8579287180729853 angstrom) substituded by Ti atom is -2356.1926796276102 eV.
+The E_gb_sub with site 96 (distance from GB plane: 1.1955716273569177 angstrom) substituded by Ti atom is -2356.660395329073 eV.
+The E_gb_sub with site 97 (distance from GB plane: 1.1890689524228915 angstrom) substituded by Ti atom is -2356.265811310907 eV.
+The E_gb_sub with site 98 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.3481117060096 eV.
+The E_gb_sub with site 102 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.148136188738 eV.
+The E_gb_sub with site 112 (distance from GB plane: 2.4630387496083745 angstrom) substituded by Ti atom is -2356.2225339198917 eV.
+The E_gb_sub with site 114 (distance from GB plane: 1.1877685482344287 angstrom) substituded by Ti atom is -2356.2417472985258 eV.
+The E_gb_sub with site 115 (distance from GB plane: 1.1076251634261514 angstrom) substituded by Ti atom is -2356.3304938730316 eV.
+The E_gb_sub with site 116 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.1705508048044 eV.
+The E_gb_sub with site 117 (distance from GB plane: 28.729936802504035 angstrom) substituded by Ti atom is -2356.209495175961 eV.
+The E_gb_sub with site 120 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.162865107459 eV.
+The E_gb_sub with site 130 (distance from GB plane: 2.4478783566948916 angstrom) substituded by Ti atom is -2356.275856591737 eV.
+The E_gb_sub with site 132 (distance from GB plane: 0.8579287180735751 angstrom) substituded by Ti atom is -2356.1926796276102 eV.
+The E_gb_sub with site 134 (distance from GB plane: 1.195571666958827 angstrom) substituded by Ti atom is -2356.6603953289923 eV.
+The E_gb_sub with site 202 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.3481117060096 eV.
+The E_gb_sub with site 206 (distance from GB plane: 2.463024374099886 angstrom) substituded by Ti atom is -2356.2225338250346 eV.
+The E_gb_sub with site 207 (distance from GB plane: 1.1890689524203744 angstrom) substituded by Ti atom is -2356.2658113109064 eV.
+The E_gb_sub with site 209 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.148136188738 eV.
+The E_gb_sub with site 210 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.1705508048044 eV.
+The E_gb_sub with site 212 (distance from GB plane: 1.187768548216427 angstrom) substituded by Ti atom is -2356.2417472985253 eV.
+The E_gb_sub with site 222 (distance from GB plane: 30.465183716993607 angstrom) substituded by Ti atom is -2356.2000042566206 eV.
+The E_gb_sub with site 223 (distance from GB plane: 2.4478782932901932 angstrom) substituded by Ti atom is -2356.2758565916147 eV.
+The E_gb_sub with site 224 (distance from GB plane: 1.1076682915941465 angstrom) substituded by Ti atom is -2356.330494010358 eV.
+The E_gb_sub with site 226 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.162865107459 eV.
+The E_gb_sub with site 229 (distance from GB plane: 0.8579287180729871 angstrom) substituded by Ti atom is -2356.1926796276102 eV.
+The E_gb_sub with site 240 (distance from GB plane: 1.1955716275878157 angstrom) substituded by Ti atom is -2356.6603953290723 eV.
+The E_gb_sub with site 241 (distance from GB plane: 1.189068952422856 angstrom) substituded by Ti atom is -2356.2658113109064 eV.
+The E_gb_sub with site 242 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.3481117060096 eV.
+The E_gb_sub with site 246 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.1481361887377 eV.
+The E_gb_sub with site 256 (distance from GB plane: 2.4630385426763564 angstrom) substituded by Ti atom is -2356.222533919495 eV.
+The E_gb_sub with site 258 (distance from GB plane: 1.1877685482343132 angstrom) substituded by Ti atom is -2356.2417472985253 eV.
+The E_gb_sub with site 259 (distance from GB plane: 1.1076188938479223 angstrom) substituded by Ti atom is -2356.3304938617785 eV.
+The E_gb_sub with site 260 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.170550804804 eV.
+The E_gb_sub with site 261 (distance from GB plane: 44.41186540613691 angstrom) substituded by Ti atom is -2356.208266274009 eV.
+The E_gb_sub with site 264 (distance from GB plane: 0 angstrom) substituded by Ti atom is -2356.1628651074584 eV.
+The E_gb_sub with site 274 (distance from GB plane: 2.4478783366986363 angstrom) substituded by Ti atom is -2356.275856591698 eV.
+The E_gb_sub with site 276 (distance from GB plane: 0.8579287180735644 angstrom) substituded by Ti atom is -2356.1926796276107 eV.
+The E_gb_sub with site 278 (distance from GB plane: 1.1955716670167327 angstrom) substituded by Ti atom is -2356.660395328992 eV.
+
+----- Segregation Energies -----
+The segregation energy of one Ti atom at site 58 (distance from GB plane: 0 angstrom) in Fe GB is -0.22083804483747826 eV.
+The segregation energy of one Ti atom at site 62 (distance from GB plane: 2.463032247012764 angstrom) in Fe GB is -0.09525903441783612 eV.
+The segregation energy of one Ti atom at site 63 (distance from GB plane: 1.189068952420559 angstrom) in Fe GB is -0.13853764973521265 eV.
+The segregation energy of one Ti atom at site 65 (distance from GB plane: 0 angstrom) in Fe GB is -0.02086252756646445 eV.
+The segregation energy of one Ti atom at site 66 (distance from GB plane: 0 angstrom) in Fe GB is -0.043277143632735715 eV.
+The segregation energy of one Ti atom at site 68 (distance from GB plane: 1.1877685482164502 angstrom) in Fe GB is -0.11447363735408089 eV.
+The segregation energy of one Ti atom at site 78 (distance from GB plane: 30.09133429037798 angstrom) in Fe GB is -0.07100634461960453 eV.
+The segregation energy of one Ti atom at site 79 (distance from GB plane: 2.447878261442206 angstrom) in Fe GB is -0.14858293038753345 eV.
+The segregation energy of one Ti atom at site 80 (distance from GB plane: 1.107667417300922 angstrom) in Fe GB is -0.20322033580498555 eV.
+The segregation energy of one Ti atom at site 82 (distance from GB plane: 0 angstrom) in Fe GB is -0.03559144628763988 eV.
+The segregation energy of one Ti atom at site 85 (distance from GB plane: 0.8579287180729853 angstrom) in Fe GB is -0.06540596643856134 eV.
+The segregation energy of one Ti atom at site 96 (distance from GB plane: 1.1955716273569177 angstrom) in Fe GB is -0.5331216679011277 eV.
+The segregation energy of one Ti atom at site 97 (distance from GB plane: 1.1890689524228915 angstrom) in Fe GB is -0.13853764973521265 eV.
+The segregation energy of one Ti atom at site 98 (distance from GB plane: 0 angstrom) in Fe GB is -0.220838044837933 eV.
+The segregation energy of one Ti atom at site 102 (distance from GB plane: 0 angstrom) in Fe GB is -0.02086252756646445 eV.
+The segregation energy of one Ti atom at site 112 (distance from GB plane: 2.4630387496083745 angstrom) in Fe GB is -0.09526025872003174 eV.
+The segregation energy of one Ti atom at site 114 (distance from GB plane: 1.1877685482344287 angstrom) in Fe GB is -0.11447363735408089 eV.
+The segregation energy of one Ti atom at site 115 (distance from GB plane: 1.1076251634261514 angstrom) in Fe GB is -0.2032202118599571 eV.
+The segregation energy of one Ti atom at site 116 (distance from GB plane: 0 angstrom) in Fe GB is -0.043277143632735715 eV.
+The segregation energy of one Ti atom at site 117 (distance from GB plane: 28.729936802504035 angstrom) in Fe GB is -0.08222151478923934 eV.
+The segregation energy of one Ti atom at site 120 (distance from GB plane: 0 angstrom) in Fe GB is -0.035591446287185136 eV.
+The segregation energy of one Ti atom at site 130 (distance from GB plane: 2.4478783566948916 angstrom) in Fe GB is -0.14858293056533967 eV.
+The segregation energy of one Ti atom at site 132 (distance from GB plane: 0.8579287180735751 angstrom) in Fe GB is -0.06540596643856134 eV.
+The segregation energy of one Ti atom at site 134 (distance from GB plane: 1.195571666958827 angstrom) in Fe GB is -0.5331216678206374 eV.
+The segregation energy of one Ti atom at site 202 (distance from GB plane: 0 angstrom) in Fe GB is -0.220838044837933 eV.
+The segregation energy of one Ti atom at site 206 (distance from GB plane: 2.463024374099886 angstrom) in Fe GB is -0.09526016386291758 eV.
+The segregation energy of one Ti atom at site 207 (distance from GB plane: 1.1890689524203744 angstrom) in Fe GB is -0.1385376497347579 eV.
+The segregation energy of one Ti atom at site 209 (distance from GB plane: 0 angstrom) in Fe GB is -0.02086252756646445 eV.
+The segregation energy of one Ti atom at site 210 (distance from GB plane: 0 angstrom) in Fe GB is -0.043277143632735715 eV.
+The segregation energy of one Ti atom at site 212 (distance from GB plane: 1.187768548216427 angstrom) in Fe GB is -0.11447363735362615 eV.
+The segregation energy of one Ti atom at site 222 (distance from GB plane: 30.465183716993607 angstrom) in Fe GB is -0.07273059544888838 eV.
+The segregation energy of one Ti atom at site 223 (distance from GB plane: 2.4478782932901932 angstrom) in Fe GB is -0.14858293044301263 eV.
+The segregation energy of one Ti atom at site 224 (distance from GB plane: 1.1076682915941465 angstrom) in Fe GB is -0.2032203491863811 eV.
+The segregation energy of one Ti atom at site 226 (distance from GB plane: 0 angstrom) in Fe GB is -0.035591446287185136 eV.
+The segregation energy of one Ti atom at site 229 (distance from GB plane: 0.8579287180729871 angstrom) in Fe GB is -0.06540596643856134 eV.
+The segregation energy of one Ti atom at site 240 (distance from GB plane: 1.1955716275878157 angstrom) in Fe GB is -0.533121667900673 eV.
+The segregation energy of one Ti atom at site 241 (distance from GB plane: 1.189068952422856 angstrom) in Fe GB is -0.1385376497347579 eV.
+The segregation energy of one Ti atom at site 242 (distance from GB plane: 0 angstrom) in Fe GB is -0.220838044837933 eV.
+The segregation energy of one Ti atom at site 246 (distance from GB plane: 0 angstrom) in Fe GB is -0.020862527566009703 eV.
+The segregation energy of one Ti atom at site 256 (distance from GB plane: 2.4630385426763564 angstrom) in Fe GB is -0.09526025832349205 eV.
+The segregation energy of one Ti atom at site 258 (distance from GB plane: 1.1877685482343132 angstrom) in Fe GB is -0.11447363735362615 eV.
+The segregation energy of one Ti atom at site 259 (distance from GB plane: 1.1076188938479223 angstrom) in Fe GB is -0.20322020060677914 eV.
+The segregation energy of one Ti atom at site 260 (distance from GB plane: 0 angstrom) in Fe GB is -0.04327714363228097 eV.
+The segregation energy of one Ti atom at site 261 (distance from GB plane: 44.41186540613691 angstrom) in Fe GB is -0.08099261283734904 eV.
+The segregation energy of one Ti atom at site 264 (distance from GB plane: 0 angstrom) in Fe GB is -0.03559144628673039 eV.
+The segregation energy of one Ti atom at site 274 (distance from GB plane: 2.4478783366986363 angstrom) in Fe GB is -0.1485829305262314 eV.
+The segregation energy of one Ti atom at site 276 (distance from GB plane: 0.8579287180735644 angstrom) in Fe GB is -0.06540596643901608 eV.
+The segregation energy of one Ti atom at site 278 (distance from GB plane: 1.1955716670167327 angstrom) in Fe GB is -0.5331216678201827 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one Ti atom in Fe GB is -0.5331216679011277 eV at site 96.

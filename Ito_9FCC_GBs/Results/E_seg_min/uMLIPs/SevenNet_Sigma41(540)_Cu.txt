@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma41(540)_Cu = -101549881027.58252

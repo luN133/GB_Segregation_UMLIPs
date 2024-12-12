@@ -1,0 +1,100 @@
+Potential: MACE(large)
+Model: large
+Lattice parameter: 3.6335
+GB: Sigma25(430)
+Atom number GB: 228
+Atom number bulk: 108
+Solute element: Mn
+Indices of calculated sites: [1, 2, 3, 4, 5, 12, 13, 28, 29, 31, 32, 45, 66, 67, 77, 79, 100, 101, 115, 116, 117, 118, 119, 126, 127, 142, 143, 145, 146, 159, 180, 181, 191, 193, 214, 215]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -905.1422300964848 eV.
+
+The energy of the bulk system substituded by one Mn atom is -905.6057383227494 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -1864.3116154798317 eV.
+
+-- Substitution of Mn --
+The E_gb_sub with site 1 (distance from GB plane: 1.1814755276059916 angstrom) substituded by Mn atom is -1865.040156913677 eV.
+The E_gb_sub with site 2 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.755399275274 eV.
+The E_gb_sub with site 3 (distance from GB plane: 1.2229494162723817 angstrom) substituded by Mn atom is -1864.8948764794854 eV.
+The E_gb_sub with site 4 (distance from GB plane: 1.1899064168998112 angstrom) substituded by Mn atom is -1865.038766893635 eV.
+The E_gb_sub with site 5 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.874817278616 eV.
+The E_gb_sub with site 12 (distance from GB plane: 0.2433309520485949 angstrom) substituded by Mn atom is -1865.0200987900043 eV.
+The E_gb_sub with site 13 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.8889369866395 eV.
+The E_gb_sub with site 28 (distance from GB plane: 1.1899064169108957 angstrom) substituded by Mn atom is -1865.0387668936348 eV.
+The E_gb_sub with site 29 (distance from GB plane: 1.2229494162831056 angstrom) substituded by Mn atom is -1864.8948764794857 eV.
+The E_gb_sub with site 31 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.849380213002 eV.
+The E_gb_sub with site 32 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.7553992752714 eV.
+The E_gb_sub with site 45 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.8889369866397 eV.
+The E_gb_sub with site 66 (distance from GB plane: 1.1953425731987775 angstrom) substituded by Mn atom is -1865.0457514780792 eV.
+The E_gb_sub with site 67 (distance from GB plane: 1.1953425731989267 angstrom) substituded by Mn atom is -1865.0457514780792 eV.
+The E_gb_sub with site 77 (distance from GB plane: 2.450526607742196 angstrom) substituded by Mn atom is -1864.9530980062436 eV.
+The E_gb_sub with site 79 (distance from GB plane: 2.4209445601310815 angstrom) substituded by Mn atom is -1865.076401652202 eV.
+The E_gb_sub with site 100 (distance from GB plane: 2.4505266076941243 angstrom) substituded by Mn atom is -1864.9530980062443 eV.
+The E_gb_sub with site 101 (distance from GB plane: 2.4209329649810964 angstrom) substituded by Mn atom is -1865.0764016888315 eV.
+The E_gb_sub with site 115 (distance from GB plane: 1.1814755110375952 angstrom) substituded by Mn atom is -1865.040156913721 eV.
+The E_gb_sub with site 116 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.7553992752737 eV.
+The E_gb_sub with site 117 (distance from GB plane: 1.2229494162723444 angstrom) substituded by Mn atom is -1864.8948764794854 eV.
+The E_gb_sub with site 118 (distance from GB plane: 1.1899064168999622 angstrom) substituded by Mn atom is -1865.0387668936353 eV.
+The E_gb_sub with site 119 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.874817290989 eV.
+The E_gb_sub with site 126 (distance from GB plane: 107.33205106594835 angstrom) substituded by Mn atom is -1865.0401540897055 eV.
+The E_gb_sub with site 127 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.8889369866392 eV.
+The E_gb_sub with site 142 (distance from GB plane: 1.189906416910791 angstrom) substituded by Mn atom is -1865.038766893635 eV.
+The E_gb_sub with site 143 (distance from GB plane: 1.2229494162829173 angstrom) substituded by Mn atom is -1864.894876479486 eV.
+The E_gb_sub with site 145 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.8493802149083 eV.
+The E_gb_sub with site 146 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.7553992752717 eV.
+The E_gb_sub with site 159 (distance from GB plane: 0 angstrom) substituded by Mn atom is -1864.8889369866395 eV.
+The E_gb_sub with site 180 (distance from GB plane: 1.1953425731987295 angstrom) substituded by Mn atom is -1865.0457514780792 eV.
+The E_gb_sub with site 181 (distance from GB plane: 1.195342573199019 angstrom) substituded by Mn atom is -1865.0457514780792 eV.
+The E_gb_sub with site 191 (distance from GB plane: 2.450526607742326 angstrom) substituded by Mn atom is -1864.9530980062436 eV.
+The E_gb_sub with site 193 (distance from GB plane: 2.4209430756066794 angstrom) substituded by Mn atom is -1865.0764016564567 eV.
+The E_gb_sub with site 214 (distance from GB plane: 2.4505266076939716 angstrom) substituded by Mn atom is -1864.9530980062445 eV.
+The E_gb_sub with site 215 (distance from GB plane: 2.420941767245955 angstrom) substituded by Mn atom is -1865.0764016755231 eV.
+
+----- Segregation Energies -----
+The segregation energy of one Mn atom at site 1 (distance from GB plane: 1.1814755276059916 angstrom) in Fe GB is -0.26503320758070004 eV.
+The segregation energy of one Mn atom at site 2 (distance from GB plane: 0 angstrom) in Fe GB is 0.019724430822407157 eV.
+The segregation energy of one Mn atom at site 3 (distance from GB plane: 1.2229494162723817 angstrom) in Fe GB is -0.11975277338910928 eV.
+The segregation energy of one Mn atom at site 4 (distance from GB plane: 1.1899064168998112 angstrom) in Fe GB is -0.26364318753871885 eV.
+The segregation energy of one Mn atom at site 5 (distance from GB plane: 0 angstrom) in Fe GB is -0.09969357251975453 eV.
+The segregation energy of one Mn atom at site 12 (distance from GB plane: 0.2433309520485949 angstrom) in Fe GB is -0.2449750839080025 eV.
+The segregation energy of one Mn atom at site 13 (distance from GB plane: 0 angstrom) in Fe GB is -0.1138132805431269 eV.
+The segregation energy of one Mn atom at site 28 (distance from GB plane: 1.1899064169108957 angstrom) in Fe GB is -0.2636431875384915 eV.
+The segregation energy of one Mn atom at site 29 (distance from GB plane: 1.2229494162831056 angstrom) in Fe GB is -0.11975277338933665 eV.
+The segregation energy of one Mn atom at site 31 (distance from GB plane: 0 angstrom) in Fe GB is -0.0742565069056127 eV.
+The segregation energy of one Mn atom at site 32 (distance from GB plane: 0 angstrom) in Fe GB is 0.019724430824908268 eV.
+The segregation energy of one Mn atom at site 45 (distance from GB plane: 0 angstrom) in Fe GB is -0.11381328054335427 eV.
+The segregation energy of one Mn atom at site 66 (distance from GB plane: 1.1953425731987775 angstrom) in Fe GB is -0.27062777198284493 eV.
+The segregation energy of one Mn atom at site 67 (distance from GB plane: 1.1953425731989267 angstrom) in Fe GB is -0.27062777198284493 eV.
+The segregation energy of one Mn atom at site 77 (distance from GB plane: 2.450526607742196 angstrom) in Fe GB is -0.17797430014729798 eV.
+The segregation energy of one Mn atom at site 79 (distance from GB plane: 2.4209445601310815 angstrom) in Fe GB is -0.3012779461057562 eV.
+The segregation energy of one Mn atom at site 100 (distance from GB plane: 2.4505266076941243 angstrom) in Fe GB is -0.1779743001479801 eV.
+The segregation energy of one Mn atom at site 101 (distance from GB plane: 2.4209329649810964 angstrom) in Fe GB is -0.30127798273520057 eV.
+The segregation energy of one Mn atom at site 115 (distance from GB plane: 1.1814755110375952 angstrom) in Fe GB is -0.26503320762458316 eV.
+The segregation energy of one Mn atom at site 116 (distance from GB plane: 0 angstrom) in Fe GB is 0.01972443082263453 eV.
+The segregation energy of one Mn atom at site 117 (distance from GB plane: 1.2229494162723444 angstrom) in Fe GB is -0.11975277338910928 eV.
+The segregation energy of one Mn atom at site 118 (distance from GB plane: 1.1899064168999622 angstrom) in Fe GB is -0.2636431875389462 eV.
+The segregation energy of one Mn atom at site 119 (distance from GB plane: 0 angstrom) in Fe GB is -0.09969358489274782 eV.
+The segregation energy of one Mn atom at site 126 (distance from GB plane: 107.33205106594835 angstrom) in Fe GB is -0.2650303836092007 eV.
+The segregation energy of one Mn atom at site 127 (distance from GB plane: 0 angstrom) in Fe GB is -0.11381328054289952 eV.
+The segregation energy of one Mn atom at site 142 (distance from GB plane: 1.189906416910791 angstrom) in Fe GB is -0.26364318753871885 eV.
+The segregation energy of one Mn atom at site 143 (distance from GB plane: 1.2229494162829173 angstrom) in Fe GB is -0.11975277338956403 eV.
+The segregation energy of one Mn atom at site 145 (distance from GB plane: 0 angstrom) in Fe GB is -0.07425650881191359 eV.
+The segregation energy of one Mn atom at site 146 (distance from GB plane: 0 angstrom) in Fe GB is 0.019724430824680894 eV.
+The segregation energy of one Mn atom at site 159 (distance from GB plane: 0 angstrom) in Fe GB is -0.1138132805431269 eV.
+The segregation energy of one Mn atom at site 180 (distance from GB plane: 1.1953425731987295 angstrom) in Fe GB is -0.27062777198284493 eV.
+The segregation energy of one Mn atom at site 181 (distance from GB plane: 1.195342573199019 angstrom) in Fe GB is -0.27062777198284493 eV.
+The segregation energy of one Mn atom at site 191 (distance from GB plane: 2.450526607742326 angstrom) in Fe GB is -0.17797430014729798 eV.
+The segregation energy of one Mn atom at site 193 (distance from GB plane: 2.4209430756066794 angstrom) in Fe GB is -0.3012779503603724 eV.
+The segregation energy of one Mn atom at site 214 (distance from GB plane: 2.4505266076939716 angstrom) in Fe GB is -0.17797430014820748 eV.
+The segregation energy of one Mn atom at site 215 (distance from GB plane: 2.420941767245955 angstrom) in Fe GB is -0.30127796942679197 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one Mn atom in Fe GB is -0.30127798273520057 eV at site 101.

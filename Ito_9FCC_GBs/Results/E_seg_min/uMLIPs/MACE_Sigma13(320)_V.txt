@@ -1,0 +1,1 @@
+E_seg_min_data_MACE(large)_Sigma13(320)_V = -0.6615709938332657

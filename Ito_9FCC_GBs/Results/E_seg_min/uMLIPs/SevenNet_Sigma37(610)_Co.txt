@@ -1,0 +1,1 @@
+E_seg_min_data_SevenNet_Sigma37(610)_Co = 3.7879638671875

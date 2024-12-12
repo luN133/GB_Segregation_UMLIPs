@@ -1,0 +1,184 @@
+Potentials: ['MACE', 'CHGNet(v0_3_0)', 'CHGNet(v0_2_0)', 'M3GNet', 'SevenNet']
+Alloying elements: ['Al', 'Si', 'P', 'S', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu', 'Nb', 'Mo', 'W']
+
+
+data_MACE_8d = [0.26166875, 0.191575, 0.25033125, 0.3763, -0.0411, -0.08955, -0.08223125, -0.03964375, 0.0, 0.08610625, 0.1831625, 0.34346875, -0.110425, -0.13705625, -0.25621875]
+data_MACE_4c = [0.2599, 0.198, 0.2773, 0.4592, -0.0352, -0.0817, -0.0715, -0.0336, 0.0, 0.0887, 0.1807, 0.3359, -0.1038, -0.1255, -0.2432]
+data_CHGNet(v0_3_0)_8d = [0.26540625, 0.179375, 0.1814, 0.2984, -0.04955, -0.0948, -0.0937625, -0.06210625, 0.0, 0.08545, 0.17076875, 0.31789375, -0.12969375, -0.1492375, -0.28221875]
+data_CHGNet(v0_3_0)_4c = [0.2661, 0.1821, 0.192, 0.351, -0.0468, -0.0913, -0.0888, -0.0606, 0.0, 0.0828, 0.1669, 0.3154, -0.1222, -0.1466, -0.2766]
+data_CHGNet(v0_2_0)_8d = [0.26135, 0.19575, 0.194925, 0.2935625, -0.06569375, -0.0903125, -0.07496875, -0.0576625, 0.0, 0.0807625, 0.174775, 0.3114, -0.14160625, -0.140275, -0.27436875]
+data_CHGNet(v0_2_0)_4c = [0.2664, 0.2075, 0.2186, 0.318, -0.063, -0.0871, -0.073, -0.0532, 0.0, 0.079, 0.1724, 0.3111, -0.1365, -0.1385, -0.2722]
+data_M3GNet_8d = [-0.93828125, 5.36348125, 5.53651875, 0.87903125, 1.99148125, 0.6162375, -0.39780625, 0.4807625, 0.0, 14.57843125, 0.6982125, 4.03966875, 5.72510625, -1.3726375, -1.399025]
+data_M3GNet_4c = [0.8364, -1.0489, 8.1652, 3.0873, -1.2651, -0.0706, -1.3014, 5.398, 0.0, 0.1998, -1.0341, -0.8985, 1.0667, 2.9683, -0.4968]
+data_SevenNet_8d = [0.25916875, 0.1625, 0.19401875, 0.3511375, -0.05349375, -0.09753125, -0.0984, -0.04681875, 0.0, 0.09028125, 0.16998125, 0.3268, -0.12871875, -0.1523625, -0.2783875]
+data_SevenNet_4c = [0.2727, 0.1882, 0.2306, 0.3796, -0.0501, -0.0949, -0.0902, -0.0456, 0.0, 0.0868, 0.1695, 0.3251, -0.125, -0.1478, -0.2682]
+
+
+----- Solution Enthalpy MACE -----
+
+
+Al: site 8d: 0.26166875 eV        site 4c: 0.2599 eV
+
+Si: site 8d: 0.191575 eV        site 4c: 0.198 eV
+
+P: site 8d: 0.25033125 eV        site 4c: 0.2773 eV
+
+S: site 8d: 0.3763 eV        site 4c: 0.4592 eV
+
+Ti: site 8d: -0.0411 eV        site 4c: -0.0352 eV
+
+V: site 8d: -0.08955 eV        site 4c: -0.0817 eV
+
+Cr: site 8d: -0.08223125 eV        site 4c: -0.0715 eV
+
+Mn: site 8d: -0.03964375 eV        site 4c: -0.0336 eV
+
+Fe: site 8d: 0.0 eV        site 4c: 0.0 eV
+
+Co: site 8d: 0.08610625 eV        site 4c: 0.0887 eV
+
+Ni: site 8d: 0.1831625 eV        site 4c: 0.1807 eV
+
+Cu: site 8d: 0.34346875 eV        site 4c: 0.3359 eV
+
+Nb: site 8d: -0.110425 eV        site 4c: -0.1038 eV
+
+Mo: site 8d: -0.13705625 eV        site 4c: -0.1255 eV
+
+W: site 8d: -0.25621875 eV        site 4c: -0.2432 eV
+
+
+----- Solution Enthalpy CHGNet(v0_3_0) -----
+
+
+Al: site 8d: 0.26540625 eV        site 4c: 0.2661 eV
+
+Si: site 8d: 0.179375 eV        site 4c: 0.1821 eV
+
+P: site 8d: 0.1814 eV        site 4c: 0.192 eV
+
+S: site 8d: 0.2984 eV        site 4c: 0.351 eV
+
+Ti: site 8d: -0.04955 eV        site 4c: -0.0468 eV
+
+V: site 8d: -0.0948 eV        site 4c: -0.0913 eV
+
+Cr: site 8d: -0.0937625 eV        site 4c: -0.0888 eV
+
+Mn: site 8d: -0.06210625 eV        site 4c: -0.0606 eV
+
+Fe: site 8d: 0.0 eV        site 4c: 0.0 eV
+
+Co: site 8d: 0.08545 eV        site 4c: 0.0828 eV
+
+Ni: site 8d: 0.17076875 eV        site 4c: 0.1669 eV
+
+Cu: site 8d: 0.31789375 eV        site 4c: 0.3154 eV
+
+Nb: site 8d: -0.12969375 eV        site 4c: -0.1222 eV
+
+Mo: site 8d: -0.1492375 eV        site 4c: -0.1466 eV
+
+W: site 8d: -0.28221875 eV        site 4c: -0.2766 eV
+
+
+----- Solution Enthalpy CHGNet(v0_2_0) -----
+
+
+Al: site 8d: 0.26135 eV        site 4c: 0.2664 eV
+
+Si: site 8d: 0.19575 eV        site 4c: 0.2075 eV
+
+P: site 8d: 0.194925 eV        site 4c: 0.2186 eV
+
+S: site 8d: 0.2935625 eV        site 4c: 0.318 eV
+
+Ti: site 8d: -0.06569375 eV        site 4c: -0.063 eV
+
+V: site 8d: -0.0903125 eV        site 4c: -0.0871 eV
+
+Cr: site 8d: -0.07496875 eV        site 4c: -0.073 eV
+
+Mn: site 8d: -0.0576625 eV        site 4c: -0.0532 eV
+
+Fe: site 8d: 0.0 eV        site 4c: 0.0 eV
+
+Co: site 8d: 0.0807625 eV        site 4c: 0.079 eV
+
+Ni: site 8d: 0.174775 eV        site 4c: 0.1724 eV
+
+Cu: site 8d: 0.3114 eV        site 4c: 0.3111 eV
+
+Nb: site 8d: -0.14160625 eV        site 4c: -0.1365 eV
+
+Mo: site 8d: -0.140275 eV        site 4c: -0.1385 eV
+
+W: site 8d: -0.27436875 eV        site 4c: -0.2722 eV
+
+
+----- Solution Enthalpy M3GNet -----
+
+
+Al: site 8d: -0.93828125 eV        site 4c: 0.8364 eV
+
+Si: site 8d: 5.36348125 eV        site 4c: -1.0489 eV
+
+P: site 8d: 5.53651875 eV        site 4c: 8.1652 eV
+
+S: site 8d: 0.87903125 eV        site 4c: 3.0873 eV
+
+Ti: site 8d: 1.99148125 eV        site 4c: -1.2651 eV
+
+V: site 8d: 0.6162375 eV        site 4c: -0.0706 eV
+
+Cr: site 8d: -0.39780625 eV        site 4c: -1.3014 eV
+
+Mn: site 8d: 0.4807625 eV        site 4c: 5.398 eV
+
+Fe: site 8d: 0.0 eV        site 4c: 0.0 eV
+
+Co: site 8d: 14.57843125 eV        site 4c: 0.1998 eV
+
+Ni: site 8d: 0.6982125 eV        site 4c: -1.0341 eV
+
+Cu: site 8d: 4.03966875 eV        site 4c: -0.8985 eV
+
+Nb: site 8d: 5.72510625 eV        site 4c: 1.0667 eV
+
+Mo: site 8d: -1.3726375 eV        site 4c: 2.9683 eV
+
+W: site 8d: -1.399025 eV        site 4c: -0.4968 eV
+
+
+----- Solution Enthalpy SevenNet -----
+
+
+Al: site 8d: 0.25916875 eV        site 4c: 0.2727 eV
+
+Si: site 8d: 0.1625 eV        site 4c: 0.1882 eV
+
+P: site 8d: 0.19401875 eV        site 4c: 0.2306 eV
+
+S: site 8d: 0.3511375 eV        site 4c: 0.3796 eV
+
+Ti: site 8d: -0.05349375 eV        site 4c: -0.0501 eV
+
+V: site 8d: -0.09753125 eV        site 4c: -0.0949 eV
+
+Cr: site 8d: -0.0984 eV        site 4c: -0.0902 eV
+
+Mn: site 8d: -0.04681875 eV        site 4c: -0.0456 eV
+
+Fe: site 8d: 0.0 eV        site 4c: 0.0 eV
+
+Co: site 8d: 0.09028125 eV        site 4c: 0.0868 eV
+
+Ni: site 8d: 0.16998125 eV        site 4c: 0.1695 eV
+
+Cu: site 8d: 0.3268 eV        site 4c: 0.3251 eV
+
+Nb: site 8d: -0.12871875 eV        site 4c: -0.125 eV
+
+Mo: site 8d: -0.1523625 eV        site 4c: -0.1478 eV
+
+W: site 8d: -0.2783875 eV        site 4c: -0.2682 eV

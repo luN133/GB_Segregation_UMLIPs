@@ -1,0 +1,1 @@
+E_seg_min_data_MACE(large)_Sigma41(540)_Mo = -0.45621661618940834

@@ -1,0 +1,76 @@
+Potential: CHGNet(v0.2.0)
+Model: 0.2.0
+Lattice parameter: 3.4628
+GB: Sigma17(410)
+Atom number GB: 180
+Atom number bulk: 108
+Solute element: Cr
+Indices of calculated sites: [43, 45, 54, 56, 57, 67, 68, 69, 78, 79, 80, 89, 133, 135, 144, 146, 147, 157, 158, 159, 168, 169, 170, 179]
+Optimizer: BFGS
+Fmax: 0.0001
+
+
+----- Energies of the Bulk System -----
+
+The energy of the bulk system is -897.1124496459961 eV.
+
+The energy of the bulk system substituded by one Cr atom is -898.4298820495605 eV.
+
+----- Energies of GB System -----
+
+The energy of the GB system is -1477.837257385254 eV.
+
+-- Substitution of Cr --
+The E_gb_sub with site 43 (distance from GB plane: 2.0150176902167622 angstrom) substituded by Cr atom is -1479.1786193847656 eV.
+The E_gb_sub with site 45 (distance from GB plane: 0.7251257345160518 angstrom) substituded by Cr atom is -1479.155101776123 eV.
+The E_gb_sub with site 54 (distance from GB plane: 2.578906959978095 angstrom) substituded by Cr atom is -1479.1423988342285 eV.
+The E_gb_sub with site 56 (distance from GB plane: 0.6240639703959712 angstrom) substituded by Cr atom is -1479.1413688659668 eV.
+The E_gb_sub with site 57 (distance from GB plane: 1.11544151171719 angstrom) substituded by Cr atom is -1479.0522766113281 eV.
+The E_gb_sub with site 67 (distance from GB plane: 1.6974544154083588 angstrom) substituded by Cr atom is -1479.1540718078613 eV.
+The E_gb_sub with site 68 (distance from GB plane: 0.6712929857997203 angstrom) substituded by Cr atom is -1479.1315841674805 eV.
+The E_gb_sub with site 69 (distance from GB plane: 1.9593769319358678 angstrom) substituded by Cr atom is -1479.1889190673828 eV.
+The E_gb_sub with site 78 (distance from GB plane: 2.618677950588431 angstrom) substituded by Cr atom is -1479.191493988037 eV.
+The E_gb_sub with site 79 (distance from GB plane: 1.2959326650303709 angstrom) substituded by Cr atom is -1479.0986251831055 eV.
+The E_gb_sub with site 80 (distance from GB plane: 0.6306362492300703 angstrom) substituded by Cr atom is -1479.1266059875488 eV.
+The E_gb_sub with site 89 (distance from GB plane: 1.6938909495310508 angstrom) substituded by Cr atom is -1479.1422271728516 eV.
+The E_gb_sub with site 133 (distance from GB plane: 2.2602955680991776 angstrom) substituded by Cr atom is -1479.169864654541 eV.
+The E_gb_sub with site 135 (distance from GB plane: 0.49624578793545027 angstrom) substituded by Cr atom is -1479.1502952575684 eV.
+The E_gb_sub with site 144 (distance from GB plane: 2.533096385401496 angstrom) substituded by Cr atom is -1479.1815376281738 eV.
+The E_gb_sub with site 146 (distance from GB plane: 0.6287772339997577 angstrom) substituded by Cr atom is -1479.1278076171875 eV.
+The E_gb_sub with site 147 (distance from GB plane: 0.11353674153065008 angstrom) substituded by Cr atom is -1479.0828323364258 eV.
+The E_gb_sub with site 157 (distance from GB plane: 1.7075480222073285 angstrom) substituded by Cr atom is -1479.1173362731934 eV.
+The E_gb_sub with site 158 (distance from GB plane: 0.572279988704695 angstrom) substituded by Cr atom is -1479.1926956176758 eV.
+The E_gb_sub with site 159 (distance from GB plane: 2.2193482318531164 angstrom) substituded by Cr atom is -1479.1569900512695 eV.
+The E_gb_sub with site 168 (distance from GB plane: 2.556022210569248 angstrom) substituded by Cr atom is -1479.1607666015625 eV.
+The E_gb_sub with site 169 (distance from GB plane: 0 angstrom) substituded by Cr atom is -1479.0730476379395 eV.
+The E_gb_sub with site 170 (distance from GB plane: 0.6391353344889588 angstrom) substituded by Cr atom is -1479.1490936279297 eV.
+The E_gb_sub with site 179 (distance from GB plane: 1.734608334822827 angstrom) substituded by Cr atom is -1479.1545867919922 eV.
+
+----- Segregation Energies -----
+The segregation energy of one Cr atom at site 43 (distance from GB plane: 2.0150176902167622 angstrom) in Fe GB is -0.023929595947265625 eV.
+The segregation energy of one Cr atom at site 45 (distance from GB plane: 0.7251257345160518 angstrom) in Fe GB is -0.0004119873046875 eV.
+The segregation energy of one Cr atom at site 54 (distance from GB plane: 2.578906959978095 angstrom) in Fe GB is 0.01229095458984375 eV.
+The segregation energy of one Cr atom at site 56 (distance from GB plane: 0.6240639703959712 angstrom) in Fe GB is 0.0133209228515625 eV.
+The segregation energy of one Cr atom at site 57 (distance from GB plane: 1.11544151171719 angstrom) in Fe GB is 0.10241317749023438 eV.
+The segregation energy of one Cr atom at site 67 (distance from GB plane: 1.6974544154083588 angstrom) in Fe GB is 0.00061798095703125 eV.
+The segregation energy of one Cr atom at site 68 (distance from GB plane: 0.6712929857997203 angstrom) in Fe GB is 0.023105621337890625 eV.
+The segregation energy of one Cr atom at site 69 (distance from GB plane: 1.9593769319358678 angstrom) in Fe GB is -0.034229278564453125 eV.
+The segregation energy of one Cr atom at site 78 (distance from GB plane: 2.618677950588431 angstrom) in Fe GB is -0.03680419921875 eV.
+The segregation energy of one Cr atom at site 79 (distance from GB plane: 1.2959326650303709 angstrom) in Fe GB is 0.056064605712890625 eV.
+The segregation energy of one Cr atom at site 80 (distance from GB plane: 0.6306362492300703 angstrom) in Fe GB is 0.02808380126953125 eV.
+The segregation energy of one Cr atom at site 89 (distance from GB plane: 1.6938909495310508 angstrom) in Fe GB is 0.012462615966796875 eV.
+The segregation energy of one Cr atom at site 133 (distance from GB plane: 2.2602955680991776 angstrom) in Fe GB is -0.01517486572265625 eV.
+The segregation energy of one Cr atom at site 135 (distance from GB plane: 0.49624578793545027 angstrom) in Fe GB is 0.00439453125 eV.
+The segregation energy of one Cr atom at site 144 (distance from GB plane: 2.533096385401496 angstrom) in Fe GB is -0.02684783935546875 eV.
+The segregation energy of one Cr atom at site 146 (distance from GB plane: 0.6287772339997577 angstrom) in Fe GB is 0.026882171630859375 eV.
+The segregation energy of one Cr atom at site 147 (distance from GB plane: 0.11353674153065008 angstrom) in Fe GB is 0.07185745239257812 eV.
+The segregation energy of one Cr atom at site 157 (distance from GB plane: 1.7075480222073285 angstrom) in Fe GB is 0.037353515625 eV.
+The segregation energy of one Cr atom at site 158 (distance from GB plane: 0.572279988704695 angstrom) in Fe GB is -0.038005828857421875 eV.
+The segregation energy of one Cr atom at site 159 (distance from GB plane: 2.2193482318531164 angstrom) in Fe GB is -0.002300262451171875 eV.
+The segregation energy of one Cr atom at site 168 (distance from GB plane: 2.556022210569248 angstrom) in Fe GB is -0.006076812744140625 eV.
+The segregation energy of one Cr atom at site 169 (distance from GB plane: 0 angstrom) in Fe GB is 0.08164215087890625 eV.
+The segregation energy of one Cr atom at site 170 (distance from GB plane: 0.6391353344889588 angstrom) in Fe GB is 0.005596160888671875 eV.
+The segregation energy of one Cr atom at site 179 (distance from GB plane: 1.734608334822827 angstrom) in Fe GB is 0.000102996826171875 eV.
+
+-- Lowest segregation energy --
+The lowest segregation energy of one Cr atom in Fe GB is -0.038005828857421875 eV at site 158.

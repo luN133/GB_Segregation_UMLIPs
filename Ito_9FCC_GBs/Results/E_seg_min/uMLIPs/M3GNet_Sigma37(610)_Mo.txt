@@ -1,0 +1,1 @@
+E_seg_min_data_M3GNet_Sigma37(610)_Mo = -197.4661865234375
