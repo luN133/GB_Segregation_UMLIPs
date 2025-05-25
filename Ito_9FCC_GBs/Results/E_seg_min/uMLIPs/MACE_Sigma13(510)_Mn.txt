@@ -1,1 +1,0 @@
-E_seg_min_data_MACE(large)_Sigma13(510)_Mn = -0.2033606966347179

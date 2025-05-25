@@ -1,1 +1,0 @@
-E_seg_min_data_MACE(large)_Sigma5(310)_Nb = -0.8686174338049568

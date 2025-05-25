@@ -1,1 +1,0 @@
-E_seg_min_data_MACE(large)_Sigma37(610)_Nb = -0.8484694092460359

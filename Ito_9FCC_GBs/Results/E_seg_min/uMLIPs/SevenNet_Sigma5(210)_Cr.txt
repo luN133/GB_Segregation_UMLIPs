@@ -1,1 +1,0 @@
-E_seg_min_data_SevenNet_Sigma5(210)_Cr = 3.13787841796875

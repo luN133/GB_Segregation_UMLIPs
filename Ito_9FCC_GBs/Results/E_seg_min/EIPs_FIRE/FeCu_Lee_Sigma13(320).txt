@@ -1,1 +1,0 @@
-E_seg_min_data_FeCu_Lee_Sigma13(320) = [-0.3702044315575108]

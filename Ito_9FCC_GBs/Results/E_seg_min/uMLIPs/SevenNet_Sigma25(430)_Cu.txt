@@ -1,1 +1,0 @@
-E_seg_min_data_SevenNet_Sigma25(430)_Cu = -0.70538330078125

@@ -1,1 +1,0 @@
-E_seg_min_data_MACE(large)_Sigma17(410)_Co = -0.11593205656845385

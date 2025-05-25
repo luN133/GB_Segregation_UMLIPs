@@ -1,1 +1,0 @@
-E_seg_min_data_SevenNet_Sigma13(510)_Ni = 2.37249755859375

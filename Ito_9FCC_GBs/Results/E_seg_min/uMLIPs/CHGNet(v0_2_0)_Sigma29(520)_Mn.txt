@@ -1,1 +1,0 @@
-E_seg_min_data_CHGNet(v0.2.0)_Sigma29(520)_Mn = 0.14741134643554688

@@ -1,1 +1,0 @@
-E_seg_min_data_FeCu_Lee_Sigma25(430) = [-0.43875843861536623]

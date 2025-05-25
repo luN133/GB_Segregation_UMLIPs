@@ -1,1 +1,0 @@
-E_seg_min_data_M3GNet_Sigma41(540)_Cu = -50.46502685546875

@@ -1,1 +1,0 @@
-E_seg_min_data_SevenNet_Sigma41(540)_Ni = 2.34588623046875

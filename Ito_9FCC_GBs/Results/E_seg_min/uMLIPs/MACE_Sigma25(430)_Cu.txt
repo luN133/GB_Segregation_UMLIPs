@@ -1,1 +1,0 @@
-E_seg_min_data_MACE(large)_Sigma25(430)_Cu = -0.363393377687089

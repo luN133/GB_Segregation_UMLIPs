@@ -1,1 +1,0 @@
-E_seg_min_data_CHGNet(v0.3.0)_Sigma5(210)_Ti = -0.270660400390625

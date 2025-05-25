@@ -1,1 +1,0 @@
-E_seg_min_data_M3GNet_Sigma5(310)_Mn = -169.18121337890625

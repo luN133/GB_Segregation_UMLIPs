@@ -1,1 +1,0 @@
-E_seg_min_data_M3GNet_Sigma13(510)_Ni = -73.50518798828125

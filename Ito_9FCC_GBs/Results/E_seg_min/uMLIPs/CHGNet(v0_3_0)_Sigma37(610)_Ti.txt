@@ -1,1 +1,0 @@
-E_seg_min_data_CHGNet(v0.3.0)_Sigma37(610)_Ti = -0.55462646484375

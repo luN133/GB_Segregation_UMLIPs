@@ -1,1 +1,0 @@
-E_seg_min_data_SevenNet_Sigma29(520)_V = 2.8447265625

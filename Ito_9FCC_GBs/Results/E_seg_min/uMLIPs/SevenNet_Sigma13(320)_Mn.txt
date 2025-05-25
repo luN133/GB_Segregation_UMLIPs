@@ -1,1 +1,0 @@
-E_seg_min_data_SevenNet_Sigma13(320)_Mn = 1.51373291015625

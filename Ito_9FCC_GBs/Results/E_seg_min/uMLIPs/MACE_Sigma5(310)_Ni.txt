@@ -1,1 +1,0 @@
-E_seg_min_data_MACE(large)_Sigma5(310)_Ni = -0.11806363006508036

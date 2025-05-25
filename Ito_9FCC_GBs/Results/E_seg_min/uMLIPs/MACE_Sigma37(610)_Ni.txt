@@ -1,1 +1,0 @@
-E_seg_min_data_MACE(large)_Sigma37(610)_Ni = -0.05807728092918296

@@ -1,1 +1,0 @@
-E_seg_min_data_SevenNet_Sigma17(410)_Nb = 0.01318359375

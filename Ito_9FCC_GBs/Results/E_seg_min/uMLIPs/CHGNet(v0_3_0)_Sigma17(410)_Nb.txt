@@ -1,1 +1,0 @@
-E_seg_min_data_CHGNet(v0.3.0)_Sigma17(410)_Nb = -0.8257942199707031
